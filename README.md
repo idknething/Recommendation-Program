@@ -1,0 +1,1 @@
+Codecademy course project.  Python (uncompiled language) program, requires Python to be installed on your machine.  Probably helpful to have terminal.  The program takes a songs.csv, and then uses user inputs to return subsets of the data.  Data is stored in a pseudo-data tree, which is created using objects from the class defined in tree_node.py.

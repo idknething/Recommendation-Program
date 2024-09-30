@@ -1,501 +1,403 @@
-songs,album,artist,writers,producer,released,position,genre
-Like a Rolling Stone,Highway 61 Revisited (Columbia),Bob Dylan,Dylan,Tom Wilson ,"July, 1965",No. 2,classic rock
-(I Can't Get No) Satisfaction',Out of Our Heads�(ABKCO),The Rolling Stones,"Mick Jagger, Keith Richards",Andrew Loog Oldham,"May, 1965",No. 1,classic rock
-Imagine,Imagine�(Capitol/Apple),John Lennon,John Lennon,"Lennon, Phil Spector, Yoko Ono","October, 1971",No. 3,classic rock
-What's Going On,What's Going On�(Tamla),Marvin Gaye,"Gaye, Renaldo Benson, Al Cleveland",Gaye�,"Feb, 1971",No. 2,soul
-Respect,I Never Loved a Man the Way I Love You�(Atlantic),Aretha Franklin,Otis Redding,Jerry Wexler,"April, 1967",No. 1,soul
-Good Vibrations,Smiley Smile/Wild Honey (Capitol)�,The Beach Boys,"Brian Wilson, Mike Love",Wilson,"October, 1966",No.1,classic rock
-Johnny B. Goode,The Anthology (Chess),Chuck Berry,Chuck Berry,Leonard and Phil Chess,"April, 1958",No. 8,classic rock
-Hey Jude,1 (Capitol/Apple) ,The Beatles,"John Lennon, Paul McCartney",George Martin,"Aug, 1968",No. 1,classic rock
-Smells Like Teen Spirit,Nevermind (DGC)�,Nirvana,Kurt Cobain,Butch Vig,"Sep, 1991",No. 6,alternative
-What'd I Say,The Ultimate Hits Collection (Rhino),Ray Charles,Charles,"Ahmet Ertegun, Jerry Wexler","June, 1959",No. 6,soul
-My Generation,My Generation�(Universal)�,The Who,Pete Townshend,Shel Talmy,"Nov, 1965",No. 74,classic rock
-A Change Is Gonna Come,Portrait of a Legend 1951-1964�(ABKCO)�,Sam Cooke,Cooke,"Hugo Peretti, Luigi Creatore","Dec, 1964",No. 31,soul
-Yesterday,Help!�(Capitol/Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"Sep, 1965",No. 1,classic rock
-Blowin' in the Wind,The Freewheelin' Bob Dylan (Columbia) ,Bob Dylan,Dylan,John Hammond,"May, 1963",,folk
-London Calling,London Calling�(Epic)�,The Clash,"Mick Jones, Joe Strummer",Guy Stevens,"Jan, 1980",,alternative
-I Want to Hold Your Hand,Meet the Beatles!�(Capitol/Apple)�,The Beatles,"John Lennon, Paul McCartney",George Martin,"Dec, 1963",No. 1,classic rock
-Purple Haze,Are You Experienced?�(Experience Hendrix)�,The Jimi Hendrix Experience,Hendrix,Chas Chandler,"March, 1967",No. 65,classic rock
-Maybellene,The Anthology�(Chess)�,Chuck Berry,Berry,Leonard and Phil Chess,"July, 1955",No. 5,classic rock
-Hound Dog,Elvis 30 #1 Hits (RCA) ,Elvis Presley,"Jerry Leiber, Mike Stoller",Steve Sholes,"July, 1956",No. 1,classic rock
-Let It Be,Let It Be (Capitol/Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"March, 1970",No. 1,classic rock
-Born to Run,Born to Run�(Columbia),Bruce Springsteen,Springsteen,"Springsteen, Mike Appel","Aug, 1975",No. 23,classic rock
-Be My Baby,The Best of the Ronettes�(ABKCO),The Ronettes,"Jeff Barry, Ellie Greenwich",Spector,"Aug, 1963",No. 2,soul
-In My Life,Rubber Soul�(Capitol)�,The Beatles,"John Lennon, Paul McCartney",George Martin,"Dec, 1964",none,classic rock
-People Get Ready,The Very Best of the Impressions�(Rhino),The Impressions,Curtis Mayfield,Johnny Pate,"Jan, 1965",No. 14,soul
-God Only Knows,Pet Sounds�(Capitol)�,The Beach Boys,"Brian Wilson, Tony Asher",Wilson,"May, 1966",No. 39,classic rock
-(Sittin' on) the Dock of the Bay,The Dock of the Bay�(Atlantic)�,Otis Redding,"Redding, Steve Cropper",Cropper,"Jan, 1968",No. 1,soul
-Layla,Layla and Other Assorted Love Songs�(Polydor),Derek and the Dominos,"Eric Clapton, Jim Gordon","Tom Dowd, the Dominos","Nov, 1970",No. 10,classic rock
-A Day in the Life,Sgt. Pepper's Lonely Hearts Club Band�(Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"June, 1967",none,classic rock
-Help!,Help!�(Capitol)�,The Beatles,"John Lennon, Paul McCartney",George Martin,"July, 1965 ",No. 1,classic rock
-I Walk the Line,The Complete Original Sun Singles�(Varese Sarabande),Johnny Cash,Cash,Sam Phillips,"Aug, 1956",No. 17,country
-Stairway to Heaven,Led Zeppelin IV (Atlantic) ,Led Zeppelin,"Jimmy Page, Robert Plant",Page,"Nov, 1971",none,classic rock
-Sympathy for the Devil,Beggar's Banquet (ABKCO) ,The Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"Dec, 1968",none,classic rock
-River Deep - Mountain High,Proud Mary: The Best of Ike and Tina Turner (EMI),Ike and Tina Turner,"Phil Spector, Jeff Barry, Ellie Greenwich",Spector,"May, 1966",No. 88,soul
-You've Lost That Lovin' Feelin'',Anthology 1962-1974 (Rhino),The Righteous Brothers,"Phil Spector, Barry Mann, Cynthia Weil",Spector,"Dec, 1964",No. 1,classic rock
-Light My Fire,The Doors�(Elektra),The Doors,"Robby Krieger, John Densmore, Jim Morrison, Ray Manzarek",Paul Rothchild,"June, 1967",No. 1,classic rock
-One,Achtung Baby (Island) ,U2,"Bono, the Edge, Adam Clayton, Larry Mullen Jr.","Brian Eno, Daniel Lanois","Nov, 1991",No. 10,alternative
-"No Woman, No Cry",Natty Dread�(Island),Bob Marley,"Vincent Ford, Marley","Chris Blackwell, Marley and the Wailers","May, 1975",none,reggae
-Gimme Shelter,Let It Bleed�(ABKCO)�,The Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"April, 1969",No. 21,classic rock
-That'll Be the Day,Greatest Hits (MCA)�,Buddy Holly and the Crickets,"Jerry Allison, Holly, Norman Petty",Petty,"May, 1957",No. 1,classic rock
-Dancing in the Street,The Ultimate Collection (Motown),Martha Reeves and the Vandellas,"Marvin Gaye, Ivy Hunter, William ""Mickey"" Stevenson",Stevenson,"Sept, 1964",No. 2,soul
-The Weight,Music From Big Pink (Capitol),The Band,Robbie Robertson,John Simon,"Aug, 1968",No. 63,classic rock
-Waterloo Sunset,Something Else by the Kinks (Warner Bros.),The Kinks,Ray Davies,Ray Davies,"Feb, 1968",none,classic rock
-Tutti-Frutti,The Georgia Peach (Specialty),Little Richard,"Dorothy La Bostrie, Richard Penniman, Joe Lubin","Robert ""Bumps"" Blackwell","Dec, 1955",No. 17,classic rock
-Georgia on My Mind,Ultimate Hits Collection (Rhino) ,Ray Charles,"Hoagy Carmichael, Stuart Gorrell",Sid Feller,"Sept, 1960",No. 1,soul
-Heartbreak Hotel,Elvis 30 #1 Hits (RCA) ,Elvis Presley,"Mae Boren Axton, Tommy Durden, Presley",Steve Sholes,"Jan, 1956",No. 1,country
-Heroes,Heroes (Virgin) ,David Bowie,"Bowie, Brian Eno",Tony Visconti,"Sept, 1977",none,classic rock
-All Along the Watchtower,Electric Ladyland�(MCA)�,The Jimi Hendrix Experience,Bob Dylan,Hendrix,"Sept, 1968",No. 20,classic rock
-Bridge Over Troubled Water,Bridge Over Troubled Water (Columbia/Legacy) ,Simon and Garfunkel,Paul Simon,"Art Garfunkel, Roy Halee, Simon","Feb, 1970",No. 1,classic rock
-Hotel California,Hotel California (Elektra) ,The Eagles,"Don Felder, Glenn Frey, Don Henley",Bill Szymczyk,"Dec, 1976",No. 1,classic rock
-The Tracks of My Tears,Going to a Go-Go (Motown),Smokey Robinson and the Miracles,"Pete Moore, Robinson, Marv Tamplin",Robinson,"June, 1965",No. 16,soul
-Crazy,St. Elsewhere (Downtown),Gnarls Barkley,"Brian Burton, Thomas Calloway, Gianfranco Reverberi, Gian Piero Reverberi",Danger Mouse,"May , 1906", No. 2,soul
-Fortunate Son,Willy and the Poor Boys (Fantasy) ,Creedence Clearwater Revival,John Fogerty,Fogerty,"Oct. , 1969", No. 14,classic rock
-Love and Happiness,I'm Still in Love With You (Capitol) ,Al Green,"Green, Mabon ""Teenie"" Hodges",Willie Mitchell,"June , 1972", No. 3,soul
-Roll Over Beethoven,The Anthology (Chess) ,Chuck Berry,Berry,Leonard and Phil Chess,"May , 1956", No. 29,classic rock
-Great Balls of Fire,Original Sun Greatest Hits (Rhino) ,Jerry Lee Lewis,"Otis Blackwell, Jack Hammer",Sam Phillips,"Nov. , 1957", No. 2,country
-Blue Suede Shoes,Original Sun Greatest Hits (Rhino) ,Carl Perkins,Perkins,Sam Phillips,"Feb , 1956", No. 2,country
-Good Golly,The Georgia Peach (Specialty),Little Richard,"Robert ""Bumps"" Blackwell, John Marascalco",Blackwell,"Feb. , 1958", No. 10,classic rock
-I Still Havent Found What Im Looking For,The Joshua Tree (Island) ,U2,Bono,"Daniel Lanois, Brian Eno","May , 1987", No. 1,alternative
-Blitzkrieg Bop,Ramones (Rhino),Ramones,The Ramones,Craig Leon,"May , 1976",,alternative
-Suspicious Minds,Elvis 30 #1 Hits (RCA) ,Elvis Presley,Mark James,"Chips Moman, Felton Jarvis, Presley","Sept. , 1969", No. 1,country
-In the Still of the Night,The Five Satins: Their Greatest Hits (Collectables) ,The Five Satins,Fred Parris,The Five Satins,"Sept. , 1956", No. 24,soul
-California Dreamin,If You Can Believe Your Eyes and Ears (MCA) ,The Mamas and the Papas,John and Michelle Phillips,Lou Adler,"Dec. , 1965", No. 4,classic rock
-My Girl,The Temptations Sing Smokey (Motown) ,The Temptations,"Smokey Robinson, Ronald White","Robinson, White","Jan. , 1965", No. 1,soul
-Ring of Fire,The Man in Black: His Greatest Hits (Columbia) ,Johnny Cash,"June Carter, Merle Kilgore",Don Law,"May , 1963", No. 17,country
-Thunder Road,Born to Run (Columbia) ,Bruce Springsteen,Springsteen,"Springsteen, Jon Landau, Mike Appel","Aug. , 1975",,classic rock
-Crazy,Patsy Cline's Greatest Hits (MCA) ,Patsy Cline,Willie Nelson,Owen Bradley,"Oct. , 1961", No. 9,country
-Every Breath You Take,Synchronicity (Interscope) ,The Police,Sting,Hugh Padgham,"May , 1983", No 1,alternative
-Norwegian Wood (This Bird Has Flown),Rubber Soul (Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"Dec. , 1965",,classic rock
-Blueberry Hill,The Fats Domino Jukebox (Capitol) ,Fats Domino,"Al Lewis, Larry Stock, Vincent Rose",Dave Bartholomew,"Oct. , 1956", No. 2,classic rock
-I Heard It Through the Grapevine,Every Motown Hit (Motown) ,Marvin Gaye,"Barrett Strong, Norman Whitfield",Whitfield,"Oct. , 1968", No. 1,soul
-You Really Got Me,Kinks (Castle) ,The Kinks,Ray Davies,Shel Talmy,"Sept. , 1964", No. 7,classic rock
-Mr. Tambourine Man,Mr. Tambourine Man (Columbia/Legacy),The Byrds,Bob Dylan,Terry Melcher,"May , 1965", No. 1,classic rock
-I Got You (I Feel Good),James Brown 50th Anniversary Collection (UTV/Polydor) ,James Brown,Brown,Brown,"Nov. , 1965", No. 3,soul
-Mystery Train,Sunrise (RCA) ,Elvis Presley,"Junior Parker, Sam Phillips",Phillips,"Sept. , 1955",,country
-Strawberry Fields Forever,Magical Mystery Tour (Capitol)  ,The Beatles,"John Lennon, Paul McCartney",George Martin,"Feb. , 1967", No. 8,classic rock
-Whole Lotta Love,Led Zeppelin II (Atlantic) ,Led Zeppelin,"Willie Dixon, Led Zeppelin",Jimmy Page,"Oct. , 1969", No. 4,classic rock
-Summertime Blues,Somethin' Else (Razor and Tie) ,Eddie Cochran,"Cochran, Jerry Capehart",Capehart,"July , 1958", No. 8,classic rock
-Superstition,Talking Book (Motown),Stevie Wonder,Wonder,"Wonder, Malcolm Cecil, Robert Margouleff","Nov. , 1972", No. 1,soul
-California Girls,Sounds of Summer: The Very Best of the Beach Boys (Capitol),The Beach Boys,"Brian Wilson, Mike Love",Wilson,"July , 1965", No. 3,classic rock
-Papas Got A Brand New Bag,"In mid-1965, Brown was locked in a contract struggle with King Records, but when he learned King was nearly bankrupt, he threw the label a bone: a song he'd recorded a few months earlier, yelling, ""This is a hit!"" as the tape rolled. Arguably the first funk record, it's driven by the empty space between beats as much as by Brown's bellow and guitarist Jimmy Nolen's ice-chipper scratch. In a stroke of postproduction genius (you can hear the original recording on the Grammy-winning Star Time box set), Brown sliced off the intro to have the song start with a face-smashing horn blast, and sped it up just enough so it sounded like an urgent bulletin from the future.",James Brown,Brown,Brown,"July , 1966",,soul
-Walk On By,The Dionne Warwick Collection: Her All-Time Greatest Hits ,Dionne Warwick,"Burt Bacharach, Hal David","Bacharach, David","April , 1964",,soul
-Crying,For the Lonely: 18 Greatest Hits (Rhino),Roy Orbison,"Joe Melson, Orbison",Fred Foster,"Aug. , 1961", No. 2,country
-Tangled Up in Blue,Blood on the Tracks (Columbia) ,Bob Dylan,Dylan,Dylan,"Jan. , 1975",,classic rock
-Jailhouse Rock,Elvis 30 #1 Hits (RCA) ,Elvis Presley,"Jerry Leiber, Mike Stoller",Steve Sholes,"Oct. , 1957",,country
-Redemption Song,Uprising (Island) ,Bob Marley and the Wailers,Marley,Chris Blackwell,"June , 1980",,reggae
-Sunshine of Your Love,Disraeli Gears (Polydor) ,Cream,"Jack Bruce, Pete Brown, Eric Clapton",Felix Pappalardi,"Jan. , 1968", No. 5 ,classic rock
-She Loves You,The Beatles 1 (Capitol/Apple) ,The Beatles,"John Lennon, Paul McCartney ",George Martin ,"Sept. , 1963", No. 1,classic rock
-For What Its Worth,Buffalo Springfield (Elektra) ,Buffalo Springfield,Stephen Stills,"Charles Greene, Brian Stone","Feb. , 1967",,classic rock
-Bo Diddley,His Best: The Chess 50th Anniversary Collection (Chess) ,Bo Diddley,Ellas McDaniel,Phil and Leonard Chess,"June , 1955",,classic rock
-Whole Lotta Shakin Going On,Original Sun Greatest Hits (Rhino) ,Jerry Lee Lewis,"Dave Williams, Roy Hall",Jack Clement,"June , 1957", No. 3,classic rock
-Lets Stay Together,Let's Stay Together (The Right Stuff),Al Green,"Al Green, Al Jackson Jr., Willie Mitchell",Mitchell,"Dec. , 1971", No. 1,classic rock
-The Times They Are A-Changin,The Times They Are A-Changin' (Columbia),Bob Dylan,Dylan,Bob Johnston,"Jan. , 1964",,classic rock
-Billie Jean,Thriller (Sony),Michael Jackson,Jackson,"Jackson, Quincy Jones","Jan. , 1983", No. 1,soul
-Whiter Shade of Pale,Greatest Hits (A&M),Procol Harum,"Keith Reid, Gary Brooker",Denny Cordell,"June , 1967", No. 5,classic rock
-Anarchy in the U.K.,"Never Mind the Bollocks, Here's the Sex Pistols (Warner Bros.) ",The Sex Pistols,"Paul Cook, Steve Jones, Glen Matlock, Johnny Rotten","Chris Thomas, Bill Price","Nov. , 1977",,alternative
-Long Tall Sally,The Georgia Peach (Specialty),Little Richard,"Robert ""Bumps"" Blackwell, Enotris Johnson, Little Richard",Blackwell,"March , 1956", No. 6 ,classic rock
-Louie Louie,The Best of the Kingsmen (Rhino) ,The Kingsmen,Richard Berry,Ken Chase,"June , 1963", No. 2 ,classic rock
-When a Man Loves a Woman,It Tears Me Up: The Best of Percy Sledge (Rhino),Percy Sledge,"Calvin Lewis, Andrew Wright","Marlin Greene, Quin Ivy","March , 1966", No. 1 ,soul
-When Doves Cry,Purple Rain (Warner Bros.) ,Prince,Prince,Prince,"June , 1984", No. 1 ,soul
-The Message,The Best of Sugar Hill Records (Rhino) ,Grandmaster Flash and the Furious Five,"Duke Bootee, Melle Mel",Sylvia Robinson,"May , 1982", No. 62 ,rap
-Crazy,St. Elsewhere (Downtown),Gnarls Barkley,"Brian Burton, Thomas Calloway, Gianfranco Reverberi, Gian Piero Reverberi",Danger Mouse,"May , 1906", No. 2,soul
-Fortunate Son,Willy and the Poor Boys (Fantasy) ,Creedence Clearwater Revival,John Fogerty,Fogerty,"Oct. , 1969", No. 14,classic rock
-Love and Happiness,I'm Still in Love With You (Capitol) ,Al Green,"Green, Mabon ""Teenie"" Hodges",Willie Mitchell,"June , 1972", No. 3,soul
-Roll Over Beethoven,The Anthology (Chess) ,Chuck Berry,Berry,Leonard and Phil Chess,"May , 1956", No. 29,classic rock
-Great Balls of Fire,Original Sun Greatest Hits (Rhino) ,Jerry Lee Lewis,"Otis Blackwell, Jack Hammer",Sam Phillips,"Nov. , 1957", No. 2,classic rock
-Blue Suede Shoes,Original Sun Greatest Hits (Rhino) ,Carl Perkins,Perkins,Sam Phillips,"Feb , 1956", No. 2,classic rock
-Good Golly,The Georgia Peach (Specialty),Little Richard,"Robert ""Bumps"" Blackwell, John Marascalco",Blackwell,"Feb. , 1958", No. 10,classic rock
-I Still Havent Found What Im Looking For,The Joshua Tree (Island) ,U2,Bono,"Daniel Lanois, Brian Eno","May , 1987", No. 1,alternative
-Blitzkrieg Bop,Ramones (Rhino),Ramones,The Ramones,Craig Leon,"May , 1976",,alternative
-Suspicious Minds,Elvis 30 #1 Hits (RCA) ,Elvis Presley,Mark James,"Chips Moman, Felton Jarvis, Presley","Sept. , 1969", No. 1,country
-In the Still of the Night,The Five Satins: Their Greatest Hits (Collectables) ,The Five Satins,Fred Parris,The Five Satins,"Sept. , 1956", No. 24,soul
-California Dreamin,If You Can Believe Your Eyes and Ears (MCA) ,The Mamas and the Papas,John and Michelle Phillips,Lou Adler,"Dec. , 1965", No. 4,classic rock
-My Girl,The Temptations Sing Smokey (Motown) ,The Temptations,"Smokey Robinson, Ronald White","Robinson, White","Jan. , 1965", No. 1,soul
-Ring of Fire,The Man in Black: His Greatest Hits (Columbia) ,Johnny Cash,"June Carter, Merle Kilgore",Don Law,"May , 1963", No. 17,country
-Thunder Road,Born to Run (Columbia) ,Bruce Springsteen,Springsteen,"Springsteen, Jon Landau, Mike Appel","Aug. , 1975",,classic rock
-Crazy,Patsy Cline's Greatest Hits (MCA) ,Patsy Cline,Willie Nelson,Owen Bradley,"Oct. , 1961", No. 9,country
-Every Breath You Take,Synchronicity (Interscope) ,The Police,Sting,Hugh Padgham,"May , 1983", No 1,alternative
-Norwegian Wood (This Bird Has Flown),Rubber Soul (Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"Dec. , 1965",,classic rock
-Blueberry Hill,The Fats Domino Jukebox (Capitol) ,Fats Domino,"Al Lewis, Larry Stock, Vincent Rose",Dave Bartholomew,"Oct. , 1956", No. 2,classic rock
-I Heard It Through the Grapevine,Every Motown Hit (Motown) ,Marvin Gaye,"Barrett Strong, Norman Whitfield",Whitfield,"Oct. , 1968", No. 1,soul
-You Really Got Me,Kinks (Castle) ,The Kinks,Ray Davies,Shel Talmy,"Sept. , 1964", No. 7,classic rock
-Mr. Tambourine Man,Mr. Tambourine Man (Columbia/Legacy),The Byrds,Bob Dylan,Terry Melcher,"May , 1965", No. 1,classic rock
-I Got You (I Feel Good),James Brown 50th Anniversary Collection (UTV/Polydor) ,James Brown,Brown,Brown,"Nov. , 1965", No. 3,soul
-Mystery Train,Sunrise (RCA) ,Elvis Presley,"Junior Parker, Sam Phillips",Phillips,"Sept. , 1955",,country
-Strawberry Fields Forever,Magical Mystery Tour (Capitol)  ,The Beatles,"John Lennon, Paul McCartney",George Martin,"Feb. , 1967", No. 8,classic rock
-Whole Lotta Love,Led Zeppelin II (Atlantic) ,Led Zeppelin,"Willie Dixon, Led Zeppelin",Jimmy Page,"Oct. , 1969", No. 4,classic rock
-Summertime Blues,Somethin' Else (Razor and Tie) ,Eddie Cochran,"Cochran, Jerry Capehart",Capehart,"July , 1958", No. 8,classic rock
-Superstition,Talking Book (Motown),Stevie Wonder,Wonder,"Wonder, Malcolm Cecil, Robert Margouleff","Nov. , 1972", No. 1,soul
-California Girls,Sounds of Summer: The Very Best of the Beach Boys (Capitol),The Beach Boys,"Brian Wilson, Mike Love",Wilson,"July , 1965", No. 3,classic rock
-Papas Got A Brand New Bag,"In mid-1965, Brown was locked in a contract struggle with King Records, but when he learned King was nearly bankrupt, he threw the label a bone: a song he'd recorded a few months earlier, yelling, ""This is a hit!"" as the tape rolled. Arguably the first funk record, it's driven by the empty space between beats as much as by Brown's bellow and guitarist Jimmy Nolen's ice-chipper scratch. In a stroke of postproduction genius (you can hear the original recording on the Grammy-winning Star Time box set), Brown sliced off the intro to have the song start with a face-smashing horn blast, and sped it up just enough so it sounded like an urgent bulletin from the future.",James Brown,Brown,Brown,"July , 1966",,soul
-Walk On By,The Dionne Warwick Collection: Her All-Time Greatest Hits ,Dionne Warwick,"Burt Bacharach, Hal David","Bacharach, David","April , 1964",,soul
-Crying,For the Lonely: 18 Greatest Hits (Rhino),Roy Orbison,"Joe Melson, Orbison",Fred Foster,"Aug. , 1961", No. 2,country
-Tangled Up in Blue,Blood on the Tracks (Columbia) ,Bob Dylan,Dylan,Dylan,"Jan. , 1975",,classic rock
-Jailhouse Rock,Elvis 30 #1 Hits (RCA) ,Elvis Presley,"Jerry Leiber, Mike Stoller",Steve Sholes,"Oct. , 1957",,country
-Redemption Song,Uprising (Island) ,Bob Marley and the Wailers,Marley,Chris Blackwell,"June , 1980",,reggae
-Sunshine of Your Love,Disraeli Gears (Polydor) ,Cream,"Jack Bruce, Pete Brown, Eric Clapton",Felix Pappalardi,"Jan. , 1968", No. 5 ,classic rock
-She Loves You,The Beatles 1 (Capitol/Apple) ,The Beatles,"John Lennon, Paul McCartney ",George Martin ,"Sept. , 1963", No. 1,classic rock
-For What Its Worth,Buffalo Springfield (Elektra) ,Buffalo Springfield,Stephen Stills,"Charles Greene, Brian Stone","Feb. , 1967",,classic rock
-Bo Diddley,His Best: The Chess 50th Anniversary Collection (Chess) ,Bo Diddley,Ellas McDaniel,Phil and Leonard Chess,"June , 1955",,classic rock
-Whole Lotta Shakin Going On,Original Sun Greatest Hits (Rhino) ,Jerry Lee Lewis,"Dave Williams, Roy Hall",Jack Clement,"June , 1957", No. 3,classic rock
-Lets Stay Together,Let's Stay Together (The Right Stuff),Al Green,"Al Green, Al Jackson Jr., Willie Mitchell",Mitchell,"Dec. , 1971", No. 1,classic rock
-The Times They Are A-Changin,The Times They Are A-Changin' (Columbia),Bob Dylan,Dylan,Bob Johnston,"Jan. , 1964",,classic rock
-Billie Jean,Thriller (Sony),Michael Jackson,Jackson,"Jackson, Quincy Jones","Jan. , 1983", No. 1,soul
-Whiter Shade of Pale,Greatest Hits (A&M),Procol Harum,"Keith Reid, Gary Brooker",Denny Cordell,"June , 1967", No. 5,classic rock
-Anarchy in the U.K.,"Never Mind the Bollocks, Here's the Sex Pistols (Warner Bros.) ",The Sex Pistols,"Paul Cook, Steve Jones, Glen Matlock, Johnny Rotten","Chris Thomas, Bill Price","Nov. , 1977",,alternative
-Long Tall Sally,The Georgia Peach (Specialty),Little Richard,"Robert ""Bumps"" Blackwell, Enotris Johnson, Little Richard",Blackwell,"March , 1956", No. 6 ,classic rock
-Louie Louie,The Best of the Kingsmen (Rhino) ,The Kingsmen,Richard Berry,Ken Chase,"June , 1963", No. 2 ,classic rock
-When a Man Loves a Woman,It Tears Me Up: The Best of Percy Sledge (Rhino),Percy Sledge,"Calvin Lewis, Andrew Wright","Marlin Greene, Quin Ivy","March , 1966", No. 1 ,soul
-When Doves Cry,Purple Rain (Warner Bros.) ,Prince,Prince,Prince,"June , 1984", No. 1 ,soul
-The Message,The Best of Sugar Hill Records (Rhino) ,Grandmaster Flash and the Furious Five,"Duke Bootee, Melle Mel",Sylvia Robinson,"May , 1982", No. 62 ,rap
-Dont Be Cruel,Elvis: 30 #1 Hits (RCA),Elvis Presley,"Otis Blackwell, Presley",Steve Sholes,"July , 1956",No. 1,country
-Maybe,The Best of the Chantels (Rhino),The Chantels,Arlene Smith,Richard Barrett,"Dec, 1957",No. 15,soul
-Sweet Child OMine,Appetite for Destruction (Geffen),Guns n' Roses,Guns n' Roses,Mike Clink,"Aug, 1987",No. 1,classic rock
-Peggy Sue,Greatest Hits (MCA),Buddy Holly,"Jerry Allison, Holly, Norman Petty",Petty,"Sept, 1957",No. 3,classic rock
-There Goes My Baby,The Very Best of the Drifters (Rhino),The Drifters,"Benjamin Nelson, Lover Patterson, George Treadwell","Jerry Leiber, Mike Stoller","May, 1959",No. 2,classic rock
-Wichita Lineman,Wichita Lineman (Capitol),Glen Campbell,Jimmy Webb,Al De Lory,"Nov, 1968",No. 3,country
-Rehab,Back to Black (Universal Republic),Amy Winehouse,Winehouse,Mark Ronson,"March, 1907",No. 9,soul
-Free Bird,One More From the Road (MCA),Lynyrd Skynyrd,"Allen Collins, Ronnie Van Zant",Al Kooper,"Sept, 1973",No. 19,classic rock
-Knockin on Heavens Door,The Essential Bob Dylan (Sony),Bob Dylan,Dylan,Gordon Carroll,"July, 1973",No. 12,classic rock
-Stayin Alive,Saturday Night Fever (Polydor),Bee Gees,"Robin Gibb, Barry Gibb, Maurice Gibb","Barry Gibb, Robin Gibb, Maurice Gibb, Karl Richardson, Albhy Galuten","Nov, 1977",No. 1,disco
-Back in Black,Back in Black (Sony),AC/DC,"Angus Young, Malcolm Young, Brian Johnson",Mutt Lange,"July, 1980",No. 37,classic rock
-I Never Loved a Man (the Way I Love You),I Never Loved a Man (the Way I Love You) (Rhino),Aretha Franklin,Ronny Shannon,Jerry Wexler,"March, 1967",No. 9,soul
-Wholl Stop the Rain,Cosmo's Factory (Fantasy),Creedence Clearwater Revival,John Fogerty,Fogerty,"Jan, 1970",,classic rock
-Desolation Row,Highway 61 Revisited (Columbia),Bob Dylan,Dylan,Bob Johnston,"Aug, 1965",,classic rock
-Please Please Me,Please Please Me (Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"Feb, 1964",No. 3,classic rock
-The Thrill is Gone,Greatest Hits (MCA),B.B. King,"Roy Hawkins, Rick Darnell",Bill Szymczyk,"Dec, 1969",No. 15,blues
-Save the Last Dance for Me,The Drifters' Golden Hits (Atlantic),The Drifters,"Doc Pomus, Mort Shuman","Jerry Leiber, Mike Stoller","Sept, 1960",No. 1,classic rock
-Green Onions,Green Onions (Atlantic),Booker T. and the MG's,"Booker T. Jones, Steve Cropper, Lewis Steinberg, Al Jackson",Jim Stewart,"Oct, 1962",No. 3,soul
-Hey Ya!,Speakerboxxx/The Love Below (LaFace/Arista),OutKast,André 3000,André 3000,"Sept, 2003",No. 1,rap
-Love Will Tear Us Apart,Substance 1977-1980 (Qwest),Joy Division,"Ian Curtis, Peter Hook, Stephen Morris, Bernard Sumner",Martin Hannett,"April, 1980",,alternative
-September Gurls,Radio City (Stax),Big Star,Alex Chilton,Big Star,"May, 1974",,alternative
-Free Fallin,Full Moon Fever (MCA),Tom Petty,"Petty, Jeff Lynne",Lynne,"June, 1989",No. 7,classic rock
-Dont Worry Baby,Sounds of Summer (Capitol),The Beach Boys,"Brian Wilson, Roger Christian",Wilson,"May, 1964",No. 24,classic rock
-I Fought the Law,I Fought the Law: The Best of the Bobby Fuller Four (Rhino),The Bobby Fuller Four,"Sonny Curtis, Fuller",Bob Keane,"Feb, 1966",No. 9,classic rock
-Paint it Black,Aftermath (ABKCO),The Rolling Stones,"Mick Jagger, Keith Richards",Andrew Loog Oldham,"May, 1966",No. 1,classic rock
-God Save the Queen,"Never Mind the Bollocks, Here's the Sex Pistols (Warner Bros.)",The Sex Pistols,"Johnny Rotten, Steve Jones, Glen Matlock, Paul Cook",Chris Thomas,"May, 1977",,alternative
-Dancing Queen,Arrival (Polydor),Abba,"Benny Andersson, Björn Ulvaeus, Stig Anderson","Andersson, Ulvaeus","Nov, 1976",No. 1,disco
-Dream On,Aerosmith (Columbia),Aerosmith,Steven Tyler,Arian Barber,"June, 1973",No. 59,classic rock
-99 Problems,The Black Album (Roc-a-Fella),Jay-Z,"Jay-Z, Rick Rubin",Rubin,"Nov, 2003",No. 30,rap
-Both Sides Now,Clouds (Warner Bros.),Joni Mitchell,Mitchell,Mitchell,"May, 1969",,folk
-Losing My Religion,Out of Time (Warner Bros.),R.E.M.,"Berry, Buck, Mills, Stipe","Scott Lift, R.E.M.","March, 1991",No. 4,alternative
-Papa Was a Rollin Stone,Anthology (Motown),The Temptations,"Norman Whitfield, Barrett Strong",Whitfield,"Oct, 1972",No. 1,soul
-Lets Get It On,Let's Get It On (Motown),Marvin Gaye,"Gaye, Ed Townsend","Gaye, Townsend","June, 1973",No. 1,soul
-Fast Car,Tracy Chapman (Elektra),Tracy Chapman,Chapman,David Kershenbaum,"April, 1988",No. 6,soul
-Bohemian Rhapsody,A Night at the Opera (Hollywood),Queen,Freddie Mercury,Roy Thomas Baker,"Nov, 1975",No. 9,classic rock
-Nothing Compares 2 U,I Do Not Want What I Haven't Got (Capitol),Sinead O'Connor,Prince,"O'Connor, Nellee Hooper","March, 1990",No. 1,alternative
-I Cant Stop Loving You,Modern Sounds in Country and Western Music (Rhino),Ray Charles,Don Gibson,Sid Feller,"May, 1962",No. 1,soul
-Folsom Prison Blues,The Essential Johnny Cash (Columbia),Johnny Cash,Cash,Sam Phillips,"Jan, 1956",No. 32,country
-Bring the Noise,It Takes a Nation of Millions to Hold Us Back (Def Jam),Public Enemy,"Carlton Ridenhour, Eric Sadler, Hank Shocklee","Rick Rubin, Carl Ryder","April, 1988",,rap
-Im Waiting for the Man,The Velvet Underground and Nico (Polygram),The Velvet Underground,Lou Reed,"Andy Warhol, Tom Wilson","March, 1967",,classic rock
-Moment of Surrender,No Line on the Horizon (Interscope),U2,"Bono, the Edge, Adam Clayton, Larry Mullen Jr.","Brian Eno, Daniel Lanois","March, 1909",,alternative
-(Were Gonna) Rock Around the Clock,The Best of Bill Haley and His Comets (MCA),Bill Haley and His Comets,"Jimmy DeKnight, Max Freedman",Milt Gabler,"May, 1954",No. 1,classic rock
-I Only Have Eyes for You,The Best of the Flamingos (Rhino),The Flamingos,Harry Warren,George Goldner,"April, 1959",No. 11,soul
-The Sounds of Silence,Sounds of Silence (Columbia),Simon and Garfunkel,Paul Simon,Tom Wilson,"Nov, 1965",No. 1,folk
-Proud Mary,Bayou Country (Fantasy),Creedence Clearwater Revival,John Fogerty,Fogerty,"Jan, 1969",No. 2,classic rock
-Rave On,Buddy Holly: Greatest Hits (MCA),Buddy Holly and the Crickets,"Sonny West, Bill Tilghman, Norman Petty",Petty,"April, 1958",No. 37,classic rock
-A Hard Days Night,A Hard Day's Night (Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"July, 1964",No. 1,classic rock
-Foxey Lady,Are You Experienced? (MCA),The Jimi Hendrix Experience,Hendrix,Chas Chandler,"Aug, 1965",No. 67,classic rock
-Earth Angel,Earth Angel (Ace),The Penguins,"Jesse Belvin, Curtis Williams",Dootsie Williams,"Dec, 1954",No. 8,soul
-Eight Miles High,Fifth Dimension (Legacy),The Byrds,"Gene Clark, Roger McGuinn, David Crosby",Allen Stanton,"April, 1966",No. 14,classic rock
-Hot Fun in the Summertime,Greatest Hits (Epic),Sly and the Family Stone,Sly Stone,Stone,"Aug, 1969", No. 2,classic rock
-The Night They Drove Old Dixie Down,The Band (Capitol),The Band,Robbie Robertson,"John Simon, the Band","Sept, 1969",,classic rock
-(Your Love Keeps Lifting Me) Higher and Higher,The Very Best of Jackie Wilson (Rhino),Jackie Wilson,"Gary Jackson, Raynard Miner, Carl Smith",Carl Davis,"Aug, 1967", No. 6,soul
-Gimme Some Lovin,Gimme Some Lovin' (Sundazed),The Spencer Davis Group,"Davis, Steve Winwood, Muff Winwood",Jimmy Miller,"Dec, 1966", No. 7,classic rock
-Love Shack,Cosmic Thing (Reprise),The B-52's,"Kate Pierson, Fred Schneider, Keith Strickland, Cindy Wilson","Don Was, Nile Rodgers","June , 1989", No. 3,alternative
-Rocket Man,Honky Chateau (Island),Elton John,"John, Bernie Taupin",Gus Dudgeon,"May, 1972", No. 6,classic rock
-Stand!,Stand! (Sony),Sly and the Family Stone,Sly Stone,Stone,"April, 1969", No. 22,soul
-The Wanderer,Runaround Sue (Capitol),Dion,Ernie Maresca,Gene Schwartz,"Dec, 1961", No. 2,soul
-Son of a Preacher Man,Dusty in Memphis (Rhino),Dusty Springfield,"John Hurley, Ronnie Wilkins",Jerry Wexler,"Nov, 1968", No. 10,soul
-I Fall to Pieces,12 Greatest Hits (MCA),Patsy Cline,Hank Cochran,Owen Bradley,"Jan, 1961", No. 12,country
-Planet Rock,Looking for the Perfect Beat 1980-1985 (Tommy Boy),Afrika Bambaataa and the Soul Sonic Force,"Bambaataa, John Robie, the Soul Sonic Force","Bambaataa, Arthur Baker","July, 1982", No. 48,alternative
-I Got a Woman,Atlantic Singles (Rhino),Ray Charles,"Charles, Renald Richard",Jerry Wexler,"Nov, 1954",,soul
-Everyday,Best of Buddy Holly (Universal),Buddy Holly and the Crickets,"Charles Hardin, Norman Petty",Petty,"Sept, 1957",,classic rock
-Ill Feel a Whole Lot Better,Mr. Tambourine Man (Columbia),The Byrds,Gene Clark,Terry Melcher,"June, 1965",,classic rock
-Paper Planes,Kala (Interscope),M.I.A.,"M.I.A., Diplo","Diplo, Switch","Aug, 2007",No. 4,rap
-We Gotta Get Out of This Place,Retrospective (ABKCO),The Animals,"Barry Mann, Cynthia Weil",Mickie Most,"Aug. , 1965", No. 13,classic rock
-Only the Lonely,For the Lonely: 18 Greatest Hits (Rhino),Roy Orbison,"Joe Melson, Orbison",Fred Foster,"May , 1960", No. 2,soul
-Sexual Healing,Midnight Love (Columbia),Marvin Gaye,"Gaye, Odell Brown, David Ritz",Gaye,"Oct. , 1982", No. 3,soul
-Just Like a Woman,Blonde on Blonde (Columbia),Bob Dylan,Dylan,Bob Johnston,"May , 1966", No. 33,classic rock
-Moondance,Moondance (Warner Bros.),Van Morrison,Morrison,Morrison,"Feb. , 1970", No. 92,classic rock
-Mannish Boy,The Anthology (MCA/Chess),Muddy Waters,"McKinley Morganfield, Mel London, Ellas McDaniel","Leonard and Phil Chess, Willie Dixon","May , 1955",,blues
-Good Times,Risqué (Atlantic),Chic,"Nile Rodgers, Bernard Edwards","Rodgers, Edwards","June , 1979", No. 1,soul
-Should I Stay or Should I Go,Combat Rock (Sony),The Clash,The Clash,Glyn Johns,"May , 1982", No. 45,alternative
-Fire and Rain,Sweet Baby James (Warner Bros.),James Taylor,Taylor,Peter Asher,"Feb. , 1970", No. 3,classic rock
-Hoochie Coochie Man,The Anthology (Chess/MCA),Muddy Waters,Willie Dixon,"Leonard and Phil Chess, Dixon","Jan. , 1954",,blues
-Dance to the Music,Dance to the Music (Sony),Sly and the Family Stone,Sylvester Stewart (Sly Stone),Stone,"Jan. , 1968", No. 8,soul
-Oh,For the Lonely: 18 Greatest Hits (Rhino),Roy Orbison,"Orbison, Billy Dees",Wesley Rose,"Aug. , 1964", No. 1,country
-Walk on the Wild Side,Transformer (RCA),Lou Reed,Reed,"David Bowie, Mick Ronson, Reed","Dec. , 1972", No. 16,classic rock
-Walk Away Renee,There's Gonna Be a Storm (Mercury),The Left Banke,"Michael Brown, Bob Calilli, Tony Sansone",Harry Lookofsky,"Sept. , 1966", No. 5,soul
-Spoonful,Anniversary Collection (Chess),Howlin' Wolf,Willie Dixon,Leonard and Phil Chess,"June , 1960",,blues
-Boom Boom,The Very Best of John Lee Hooker (Rhino),John Lee Hooker,Hooker,Calvin Carter,"Feb. , 1962", No. 60,blues
-Jolene,Jolene (Buddha/BMG),Dolly Parton,Parton,Bob Ferguson,"Jan. , 1974", No. 60,country
-Do You Believe in Magic,Do You Believe in Magic (Buddha),The Lovin' Spoonful,John Sebastian,Erik Jacobsen,"July , 1965", No. 9,classic rock
-Your Cheatin Heart,The Ultimate Collection (Mercury Nashville),Hank Williams,"Williams, Fred Rose",Rose,"Jan. , 1953",,country
-Rockin in the Free World,Freedom (Reprise),Neil Young,Young,"Niko Bolas, Young","Oct. , 1989",,classic rock
-1999,1999 (Warner Bros.),Prince,Prince,Prince,"Oct. , 1982", No. 12,soul
-Caroline,Pet Sounds (Capitol),The Beach Boys,"Brian Wilson, Tony Asher",Wilson,"March , 1966", No. 32,classic rock
-96 Tears,More Action (Cavestomp),? and the Mysterians,Rudy Martinez,Martinez,"Sept. , 1966", No. 1,soul
-In My Room,"Surfer Girl/Shut Down, Volume 2 (Capitol)",The Beach Boys,"Brian Wilson, Gary Usher",Wilson,"Sept. , 1963", No. 23,classic rock
-Gloria,"When Morrison wrote his first hit, ""Gloria,"" he was just another hungry young rocker, with the Belfast garage band Them. ""I was just being me, a street cat from Belfast,"" Morrison said. ""Probably like thousands of kids from Belfast who were in bands."" A Chicago group called Shadows of Knight hit with a more cautious version in 1966; Morrison later complained that ""Gloria"" was ""capitalized on a lot.""",Them,Van Morrison,Tommy Scott,"March , 1965",,classic rock
-Bye Bye Love,All-Time Original Hits (Rhino),The Everly Brothers,Boudleaux and Felice Bryant,Archie Bleyer,"May , 1957", No. 2,classic rock
-Reach Out,The Ultimate Collection (Motown),The Four Tops,"Eddie Holland, Lamont Dozier, Brian Holland","Holland, Dozier, Holland","Aug. , 1966", No. 1,soul
-Lean on Me,Lean on Me (Sony),Bill Withers,Withers,Withers,"June , 1972", No. 1,soul
-Try a Little Tenderness,Very Best of Otis Redding (Rhino),Otis Redding,"Jimmy Campbell, Reginald Connelly, Harry Woods","Steve Cropper, Jim Stewart","Dec. , 1966", No. 25,soul
-Positively 4th Street,The Essential Bob Dylan (Sony),Bob Dylan,Dylan,Bob Johnston,"Sept. , 1965", No. 7,classic rock
-Come Together,Abbey Road (Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"Sept. , 1969", No. 1,classic rock
-Bizarre Love Triangle,Substance (Qwest),New Order,"Bernard Albrecht, Gillian Gilbert, Peter Hook, Stephen Morris",New Order,"Oct, 1986", No. 98,alternative
-Loser,Mellow Gold (Geffen),Beck,Beck Hansen,Karl Stephenson,"March, 1993", No. 10,alternative
-Flash Light,Funkentelechy vs. the Placebo Syndrome (Mercury),Parliament,"George Clinton, Bernie Worrell, Bootsy Collins",Clinton,"Dec, 1977", No. 16,soul
-Hey Joe,Are You Experienced? (MCA),The Jimi Hendrix Experience,William Roberts,Chas Chandler,"Dec, 1966",,classic rock
-Black Dog,Led Zeppelin IV (Atlantic),Led Zeppelin,"Jimmy Page, Robert Plant, John Paul Jones",Page,"Nov. , 1971", No. 15,classic rock
-Tired of Being Alone,Greatest Hits (Capitol),Al Green,Green,"Willie Mitchell, Green","July , 1971", No. 11,soul
-Train in Vain,London Calling (Epic),The Clash,"Mick Jones, Joe Strummer",Guy Stevens,"Dec. , 1979", No. 23,alternative
-Shes Not There,British Invasion: 1963-1967 (Hip-O),The Zombies,Rod Argent,Ken Jones,"Oct. , 1964", No. 2 ,alternative
-Stan,The Marshall Mathers LP (Aftermath/Interscope),Eminem feat. Dido,"Marshall Mathers,D. Armstrong, P. Herman","Eminem, the 45 King","March , 2000", No. 51,rap
-Cant Buy Me Love,A Hard Day’s Night (Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"March , 1964", No. 1,classic rock
-Money (Thats What I Want),Motown: The Classic Years (Polygram),Barrett Strong,"Berry Gordy, Janie Bradford",Gordy,"Jan. , 1960", No. 23,soul
-Walk This Way,Raising Hell (Arista),Run-DMC,"Steven Tyler, Joe Perry","Rick Rubin,Russell Simmons","May , 1986", No. 4,rap
-Summer Babe (Winter Version),Slanted and Enchanted (Matador),Pavement,Stephen Malkmus,"Malkmus, Scott Kannberg","April , 1992",,alternative
-Smokestack Lightning,His Best (Chess),Howlin' Wolf,Chester Burnett,"Leonard and Phil Chess, Willie Dixon","March , 1956",,blues
-(Whats So Funny About) Peace,Armed Forces (Rhino),Elvis Costello and the Attractions,Nick Lowe,Lowe,"Jan. , 1979",,alternative
-Call Me,Best of Blondie (Chrysalis),Blondie,"Giorgio Moroder, Deborah Harry",Moroder,"Feb. , 1980", No. 1 ,alternative
-Help Me,Court and Spark (Elektra),Joni Mitchell,Mitchell,Mitchell,"Feb. , 1974", No. 7,folk
-You Are the Sunshine of My Life,Talking Book (Tamla),Stevie Wonder,Wonder,Wonder,"Nov. , 1972", No. 1,soul
-Seven Nation Army,Elephant (V2/Third Man),The White Stripes,Jack White,White,"April , 2003",,alternative
-Aint No Sunshine,Lean on Me: The Best of Bill Withers (Columbia/Legacy),Bill Withers,Withers,Booker T. Jones,"July , 1971", No. 3,soul
-Chapel of Love,"The Best of the Girl Groups, Vol. 1 (Rhino)",The Dixie Cups,"Jeff Barry, Ellie Greenwich, Phil Spector","Jerry Leiber, Mike Stoller, Barry, Greenwich","June , 1964", No. 1,soul
-Pictures of You,Disintegration (Elektra),The Cure,"Robert Smith, Simon Gallup, Boris Williams, Porl Thompson, Roger O'Donnell, Lol Tolhurst","Smith, David M. Allen","May , 1989", No. 71,alternative
-Ziggy Stardust,The Rise and Fall of Ziggy Stardust and the Spiders From Mars (Virgin),David Bowie,Bowie,"Ken Scott, Bowie","June , 1972",,classic rock
-Ill Take You There,Bealtitude: Respect Yourself (Stax),The Staple Singers,Alvertis Isbell (Al Bell),Bell,"June , 1972", No. 1,soul
-Born in the U.S.A.,Born in the U.S.A. (Columbia),Bruce Springsteen,Springsteen,"Springsteen, Jon Landau, Chuck Plotkin, Steve Van Zandt","June , 1984", No. 9,classic rock
-Somebody to Love,Surrealistic Pillow (RCA),Jefferson Airplane,Darby Slick,Rick Jarrard,"Feb. , 1967", No. 5,classic rock
-Something,Abbey Road (Apple),The Beatles,George Harrison,George Martin,"Oct. , 1969", No. 3,classic rock
-Sweet Little Sixteen,The Anthology (Chess),Chuck Berry,Berry,Leonard and Phil Chess,"Jan. , 1958", No. 2,classic rock
-Sloop John B,Pet Sounds (Capitol),The Beach Boys,"Traditional, Brian Wilson",Wilson,"March , 1966", No. 3,classic rock
-He Stopped Loving Her Today,I Am What I Am (Epic/Legacy),George Jones,"Bobby Braddock,Curly Putnam",Billy Sherrill,"March , 1980",,country
-Roadrunner,The Modern Lovers (Rhino),The Modern Lovers,Jonathan Richman,John Cale,"Oct. , 1976",,alternative
-Jesus Walks,The College Dropout (Roc-a-Fella),Kanye West,"Kanye West, Rhymefest",West,"Feb. , 2004", No. 11,rap
-Sunday Bloody Sunday,War (Island),U2,"Bono, the Edge, Adam Clayton, Larry Mullen Jr.",Steve Lillywhite,"March , 1983",,alternative
-Personality Crisis,New York Dolls (Mercury),New York Dolls,"David Johansen, Johnny Thunders",Todd Rundgren,"Aug. , 1973",,classic rock
-Tighten Up,Tightening It Up: The Best of Archie Bell and the Drells (Rhino),Archie Bell and The Drells,"Bell, Billy Butler",Skipper Lee Frazier,"March , 1968", No. 1,soul
-Walking in the Rain,The Best of the Ronettes (ABKCO),The Ronettes,"Barry Mann, Cynthia Weil, Phil Spector",Spector,"Oct. , 1964", No. 23,soul
-Sail Away,Sail Away (Rhino),Randy Newman,Newman,Lenny Waronker,"June , 1972",,classic rock
-Hes A Rebel,Best of the Crystals (ABKCO),The Crystals,Gene Pitney,Phil Spector,"Aug. , 1962", No. 1,soul
-Ooo Baby Baby,Ooo Baby Baby: The Anthology (Motown),Smokey Robinson and The Miracles,"Robinson, Warren Moore",Robinson,"March , 1965", No. 16,soul
-Higher Ground,Innervisions (Motown),Stevie Wonder,Wonder,Wonder,"Aug. , 1973", No. 4,soul
-Hallelujah,Grace (Columbia),Jeff Buckley,Leonard Cohen,Andy Wallace,"Aug. , 1994",,folk
-Oh,Ultimate Collection (Hip-O),The Dells,"Marvin Junior, John Funches",Bobby Miller,"Aug. , 1969", No. 10,soul
-I Can See For Miles,The Who Sell Out (MCA),The Who,Pete Townshend,Kit Lambert,"Oct. , 1967", No. 9,classic rock
-Wild Thing,Greatest Hits (Prime Cuts),The Troggs,Chip Taylor,Larry Page,"June , 1966", No. 1,classic rock
-Mississippi,Love and Theft (Columbia),Bob Dylan,Dylan,Jack Frost,"Sept. , 2001",,classic rock
-Heart of Glass,Parallel Lines (Capitol),Blondie,"Deborah Harry, Chris Stein",Mike Chapman,"Sept. , 1978", No. 1 ,alternative
-Highway to Hell,Highway to Hell (Atlantic),AC/DC,"Angus Young, Malcolm Young, Bon Scott",Robert John Lange,"Aug. , 1979", No. 47 ,classic rock
-Paranoid Android,OK Computer (Capitol),Radiohead,Thom Yorke,"Nigel Godrich, Radiohead","May , 1997",,alternative
-All the Young Dudes,All the Young Dudes (Columbia),Mott the Hoople,David Bowie,Bowie,"July , 1972", No. 37 ,classic rock
-Mack the Knife,That’s All (Atlantic),Bobby Darin,"Marc Blitzstein, Bertolt Brecht, Kurt Weill",Ahmet Ertegun,"March , 1959", No. 1 ,soul
-Money Honey,Greatest Hits (Curb),The Drifters,Jesse Stone,"Ahmet Ertegun, Jerry Wexler","Sept., 1953",,classic rock
-Paranoid,Paranoid (Castle),Black Sabbath,"Geezer Butler, Tony Iommi, Ozzy Osbourne, William Ward",Rodger Bain,"Nov. , 1970", No. 61 ,classic rock
-Chain of Fools,Lady Soul (Rhino),Aretha Franklin,Don Covay,Jerry Wexler,"Nov. , 1967", No. 2 ,soul
-Rappers Delight,Rappers Delight: The Best of Sugarhill Gang (Rhino),Sugarhill Gang,"S. Robinson, H. Jackson, M. Wright, G. O’Brien",Sylvia Robinson,"Oct. , 1979", No. 36 ,rap
-The Harder They Come,The Harder They Come (Island),Jimmy Cliff,Cliff,Cliff,"March , 1975",,reggae
-Baba ORiley,Who’s Next (MCA),The Who,Pete Townshend,"Glyn Johns, the Who","Aug. , 1971",,classic rock
-You Keep Me Hanging On,The Ultimate Collection (Motown),The Supremes,"Brian Holland,Lamont Dozier, Eddie Holland","Brian Holland, Dozier","Oct. , 1966", No. 1,soul
-Maybe Im Amazed,McCartney (Capitol),Paul McCartney,McCartney,McCartney,"April , 1970", No. 10,classic rock
-Walk This Way,Toys in the Attic (Sony),Aerosmith,"Steven Tyler, Joe Perry",Jack Douglas,"Dec. , 1976", No. 10,classic rock
-Beautiful Day,All That You Can’t Leave Behind (Island),U2,U2,"Daniel Lanois, Brian Eno","Oct. , 2000", No. 1,alternative
-Beat It,Thriller (Epic),Michael Jackson,Jackson,Quincy Jones,"Dec. , 1982", No. 1 ,soul
-Wild Horses,Sticky Fingers (Virgin),The Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"April , 1971", No. 28,classic rock
-Sweet Jane,Loaded (Fully Loaded Edition) (Rhino),The Velvet Underground,Lou Reed,"The Velvet Underground, Shel Kagan, Geoffrey Haslam","Aug. , 1970",,classic rock
-Spirit in the Sky,Spirit in the Sky (Varese),Norman Greenbaum,Greenbaum,Erik Jacobsen,"Feb. , 1970", No. 3,classic rock
-Subterranean Homesick Blues,Bringing It All Back Home (Sony),Bob Dylan,Dylan,Tom Wilson,"March , 1965", No. 39,classic rock
-I Cant Make You Love Me,Luck of the Draw (Capitol),Bonnie Raitt,"Mike Reid, Allen Shamblin","Don Was, Raitt","Nov. , 1991", No. 18,classic rock
-We Will Rock You,News of the World (Hollywood),Queen,"Brian May, Mike Stone",Queen,"Oct. , 1977", No. 52,classic rock
-Wind and Fire,That’s the Way of the World (Columbia),Earth,"Maurice White, Verdine White, Charles Stepney",Maurice White,"March , 1975", No. 12,soul
-The End,The Doors (Elektra),The Doors,"John Densmore, Robbie Krieger, Ray Manzarek, Jim Morrison",Paul Rothchild,"March , 1967",,classic rock
-For Your Precious Love,Greatest Hits (Curb),Jerry Butler and The Impressions,"Arthur Brooks, Butler",Calvin Carter,"June , 1958", No. 11,soul
-Get Up (I Feel Like Being a) Sex Machine,50th Anniversary Collection (UTV/Polydor),James Brown,"Brown, Bobby Byrd,Ron Lenhoff",Brown,"July , 1970", No. 15,soul
-Good Lovin,The Very Best of the Rascals (Rhino),The Young Rascals,"Rudy Clark, Arthur Resnick","Tom Dowd, Arif Mardin","March , 1966", No. 1 ,classic rock
-Baby Love,The Ultimate Collection (Motown),The Supremes,"Brian Holland,Lamont Dozier, Eddie Holland","Brian Holland, Dozier","Sept. , 1964", No. 1,soul
-Dancing Barefoot,Wave (Arista),Patti Smith Group,"Smith, Ivan Kral",Todd Rundgren,"May , 1979",,alternative
-Fight the Power,Fear of a Black Planet (Def Jam),Public Enemy,"Chuck D, Eric Sadler, Hank Shocklee, Keith Shocklee","Sadler, Hank Shocklee","June , 1989",,rap
-Cortez the Killer,Zuma (Reprise),Neil Young,Young,"Young, David Briggs","Nov. , 1975",,classic rock
-Heartbreaker,Led Zeppelin II (Atlantic),Led Zeppelin,"Jimmy Page, Robert Plant, John Bonham, John Paul Jones",Page,"Oct. , 1969",,classic rock
-Take Me Out,Franz Ferdinand (Domino),Franz Ferdinand,"Alex Kapranos, Nick McCarthy",Tore Johansson,"Feb. , 2004", No. 66,alternative
-Schools Out,School’s Out (Warner Bros.),Alice Cooper,"Michael Bruce, Glen Buxton, Cooper, Dennis Dunway, Neal Smith",Bob Ezrin,"May , 1972", No. 7,classic rock
-Many Rivers to Cross,"Wonderful World, Beautiful People (A&M)",Jimmy Cliff,Cliff,Cliff,"Dec. , 1969",,reggae
-Wish You Were Here,Wish You Were Here (Capitol),Pink Floyd,"David Gilmour, Roger Waters",Pink Floyd,"Sept. , 1975",,classic rock
-Alison,My Aim Is True (Rhino),Elvis Costello,Costello,Nick Lowe,"Nov. , 1977",,alternative
-Dont Let Me Be Misunderstood,Retrospective (ABKCO),The Animals,"Bennie Benjamin, Sol Marcus,Gloria Caldwell",Mickie Most,"Jan. , 1965", No. 15,classic rock
-Comfortably Numb,The Wall (Capitol),Pink Floyd,"David Gilmour, Roger Waters",Bob Ezrin,"Dec. , 1979",,classic rock
-I Put a Spell on You,Voodoo Jive (Rhino),Screamin' Jay Hawkins,"Screamin’ Jay Hawkins, Herb Slotkin",Arnold Maxin,"Sept. , 1956",,blues
-In Dreams,For the Lonely: 18 Greatest Hits (Rhino),Roy Orbison,"Joe Melson, Orbison",Fred Foster,"Feb. , 1963", No. 7,country
-Wake Up Little Susie,The Best of the Everly Brothers (Rhino),The Everly Brothers,"Felice Bryant, Boudleaux Bryant",Archie Bleyer,"Sept. , 1957", No. 1,classic rock
-Iron Man,Paranoid (Warner Bros.),Black Sabbath,Black Sabbath,Roger Bain,"Feb. , 1971", No. 52,classic rock
-Whats Love Got to Do With It,Private Dancer (Capitol),Tina Turner,"Terry Britten, Graham Lyle",Britten,"June , 1984", No. 1,soul
-Lonely Teardrops,The Greatest Hits of Jackie Wilson (Brunswick),Jackie Wilson,"Berry Gordy, Gwen Gordy, Tyran Carlo",Dick Jacobs,"Nov. , 1958", No. 7 ,soul
-Why Do Fools Fall In Love,The Best of Frankie Lymon and the Teenagers (Rhino),Frankie Lymon and The Teenagers,"Lymon, Morris Levy",George Goldner,"Jan. , 1956", No. 6,soul
-Thats Entertainment,Sound Affects (Polygram),The Jam,Paul Weller,"Vic Coppersmith-Heaven, the Jam","Nov. , 1980",,alternative
-Say It Loud - Im Black and Im Proud,50th Anniversary Collection (UTV/Polydor),James Brown,"Brown, Pee Wee Ellis",Brown,"Sept. , 1968", No. 10,soul
-With a Little Help From My Friends,Sgt. Pepper’s Lonely Hearts Club Band (Apple/Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"June , 1967",,classic rock
-Ruby Tuesday,Between the Buttons (ABKCO),The Rolling Stones,"Mick Jagger, Keith Richards",Andrew Loog Oldham,"Jan. , 1967", No. 1,classic rock
-Blue Eyes Crying in the Rain,Red Headed Stranger (Sony),Willie Nelson,Fred Rose,Nelson,"July , 1975", No. 21,country
-Da Ya Think Im Sexy?,Blondes Have More Fun (Warner Bros.),Rod Stewart,"Stewart, Carmine Appice",Tom Dowd,"Dec. , 1978", No. 1,classic rock
-One More Time,Discovery (Virgin),Daft Punk,"Thomas Bangalter, Guy-Manuel de Homem-Christo, Anthony Moore",Daft Punk,"Nov. , 2000", No. 61,soul
-Like A Prayer,Like a Prayer (Warner Bros.),Madonna,"Madonna, Patrick Leonard","Madonna, Leonard","March , 1989", No. 1,alternative
-One Way or Another, Parallel Lines (Capitol),Blondie,"Deborah Harry, Nigel Harrison",Mike Chapman,"Sept. , 1978", No. 24,alternative
-Sign O The Times,Sign 'O' the Times (Warner Bros.),Prince,Prince,Prince,"March , 1987", No. 3,soul
-Heart of Gold,Harvest (Warner Bros.),Neil Young,Young,"Elliot Mazer, Young","Feb , 1972", No. 1,classic rock
-Get Up,Legend (Island),Bob Marley and the Wailers,"Bob Marley, Peter Tosh",Chris Blackwell,"Nov. , 1975",,reggae
-Street Fighting Man,Beggars Banquet (ABKCO),The Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"Aug. , 1968", No. 48,classic rock
-Baby I Need Your Loving,The Ultimate Collection (Motown),The Four Tops,"Brian Holland, Lamont Dozier, Eddie Holland","Holland, Dozier, Holland","July , 1964", No. 11,soul
-Just My Imagination,Anthology (Motown),The Temptations,"Norman Whitfield, Barrett Strong",Whitfield,"Jan. , 1971", No. 1,soul
-Roxanne,Outlandos d'Amour (Interscope),The Police,Sting,The Police,"Jan , 1979", No. 32,alternative
-Tiny Dancer,Madman Across the Water (Island),Elton John,"John, Bernie Taupin",Gus Dudgeon,"Nov. , 1971", No. 41,classic rock
-Know You Got Soul,Paid in Full (Island),Eric B. and Rakim,Eric B. and Rakim,Eric B. and Rakim,"July , 1987",,rap
-Stills,Decade (Reprise),Crosby,Neil Young,"Crosby, Stills, Nash, Young","June , 1970", No. 14,classic rock
-Ticket to Ride,Help! (Capitol/Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"April , 1965", No. 1,classic rock
-Whipping Post,At Fillmore East (Mercury),The Allman Brothers Band,Gregg Allman,Tom Dowd,"Nov. , 1969",,classic rock
-Bitter Sweet Symphony,Urban Hymns (Virgin),The Verve,"Mick Jagger, Keith Richards, Richard Ashcroft","The Verve, Christopher Marc Potter, Youth","Sept. , 1997", No. 12,classic rock
-Tell It Like It Is,Tell It Like It Is: Golden Classics (Collectables),Aaron Neville,"George Davis, Lee Diamond",Davis,"Nov. , 1966", No. 2,soul
-Goodbye Yellow Brick Road,Goodbye Yellow Brick Road (Island),Elton John,"John, Bernie Taupin",Gus Dudgeon,"Sept. , 1973", No. 2,classic rock
-Radio Free Europe,Murmur (A&M),R.E.M.,R.E.M.,"Mitch Easter, Don Dixon","July , 1983", No. 78,alternative
-Pride (In the Name of Love),The Unforgettable Fire (Island),U2,"Bono, the Edge, Adam Clayton, Larry Mullen Jr.","Brian Eno, Daniel Lanois","Oct. , 1984", No. 33,alternative
-Hit the Road Jack,Ultimate Hits Collection (Rhino),Ray Charles,Percy Mayfield,Sid Feller,"Sept. , 1961", No. 1,classic rock
-Maps,Fever to Tell (Interscope),Yeah Yeah Yeahs,Yeah Yeah Yeahs,David Andrew Sitek,"Feb. , 2004", No. 87,alternative
-Fake Plastic Trees,The Bends (Capitol),Radiohead,Radiohead,John Leckie,"March , 1995", No. 65,alternative
-Another Brick in the Wall Part 2,The Wall (Capitol),Pink Floyd,Roger Waters,"Bob Ezrin, Waters, David Gilmour","Nov. , 1979", No. 1,classic rock
-Brown Eyed Handsome Man,The Anthology (Chess),Chuck Berry,Berry,"Leonard Chess, Phil Chess","Sept. , 1956",,classic rock
-Wonderful World,Portrait of a Legend 1951-1964 (ABKCO),Sam Cooke,"Cooke, Herb Alpert, Lou Adler","Cooke, Adler","May , 1960", No. 12,soul
-Marquee Moon,Marquee Moon (Elektra),Television,Tom Verlaine,Andy Johns,"Feb. , 1977",,alternative
-I Cant Explain,The Ultimate Collection (MCA),The Who,Pete Townshend,Shel Talmy,"March , 1965", No. 93,classic rock
-The Wind Cries Mary,Are You Experienced? (MCA),The Jimi Hendrix Experience,Hendrix,Chas Chandler,"May , 1967", No. 65,classic rock
-Im a Man,His Best: The Chess 50th Anniversary Collection (Chess),Bo Diddley,Diddley,Leonard Chess,"June , 1955",,blues
-Personal Jesus,Violator (Sire),Depeche Mode,Martin Gore,"Depeche Mode, Flood","Nov. , 1989", No. 28,alternative
-White Room,Wheels of Fire (Polygram),Cream,"Pete Brown, Jack Bruce",Felix Pappalardi,"Aug. , 1968", No. 6,classic rock
-How Deep Is Your Love,Saturday Night Fever (Polygram),Bee Gees,Bee Gees,"Bee Gees, Karl Richardson, Albhy Galuten","Sept. , 1977", No. 1 ,disco
-Unchained Melody,Anthology 1962-1974 (Rhino),The Righteous Brothers,"Alex North, Hy Zaret",Phil Spector,"July , 1965", No. 4,country
-Highway 61 Revisited,Highway 61 Revisited (Columbia),Bob Dylan,Dylan,Bob Johnston,"Aug. , 1965",,classic rock
-The Letter,The Letter (Sundazed),The Box Tops,Wayne Carson Thompson,Dan Penn,"July , 1967", No. 1,soul
-Complete Control,The Clash (Epic),The Clash,"Mick Jones, Joe Strummer","Lee ""Scratch"" Perry","July , 1979",,alternative
-All You Need is Love,Magical Mystery Tour (Capitol),The Beatles,"John Lennon, Paul McCartney",George Martin,"July , 1967", No. 1,classic rock
-Killing Me Softly With His Song,Killing Me Softly (Atlantic),Roberta Flack,"Norman Gimbel, Charles Fox",Joel Dorn,"Jan , 1973", No. 1,soul
-Got My Mojo Working,The Anthology (Chess/MCA),Muddy Waters,Preston Foster,"Phil Chess, Leonard Chess, Willie Dixon","April , 1957",,blues
-Nowhere to Run,The Ultimate Collection (Motown),Martha and the Vandellas,"Brian Holland, Lamont Dozier, Eddie Holland","Brian Holland, Dozier","Feb. , 1965", No. 8,soul
-Little Wing,Axis: Bold as Love (Experience Hendrix/MCA),The Jimi Hendrix Experience,Hendrix,Chas Chandler,"Feb. , 1968",,classic rock
-Sweet Dreams (Are Made of This),Sweet Dreams (RCA),Eurythmics,"Annie Lennox, Dave Stewart",Stewart,"April , 1983", No. 1,alternative
-Bad Moon Rising,Green River (Fantasy),Creedence Clearwater Revival,John Fogerty,Fogerty,"April , 1969", No. 2,classic rock
-Watching the Detectives,My Aim Is True (Rhino),Elvis Costello,Costello,Nick Lowe,"Nov. , 1977",,alternative
-Tears in Heaven,"""Rush"" Soundtrack (Warner Bros.)",Eric Clapton,"Clapton, Will Jennings",Russ Titelman,"Jan. , 1992", No. 2,classic rock
-All Shook Up,Elvis 30 #1 Hits (RCA),Elvis Presley,"Otis Blackwell, Presley",Steve Sholes,"March , 1957", No. 1,classic rock
-The Great Pretender,The Magic Touch: An Anthology (Mercury),The Platters,Buck Ram,Ram,"Dec. , 1955", No. 1,soul
-The Loco-Motion,The Loco-Motion (Rhino),Little Eva,"Gerry Goffin, Carole King",Goffin,"June , 1962", No. 1,soul
-Spanish Harlem,The Very Best of Ben E. King (Rhino),Ben E. King,"Phil Spector, Jerry Leiber","Mike Stoller, Leiber","Dec. , 1960", No. 10,soul
-That Lady (Part 1 and 2),The Essential Isley Brothers (Legacy),The Isley Brothers,The Isley Brothers,The Isley Brothers,"July , 1973", No. 6,soul
-Candle in the Wind,Goodbye Yellow Brick Road (Island),Elton John,"John, Bernie Taupin",Gus Dudgeon,"Oct. , 1973",,classic rock
-California Love,Greatest Hits (Death Row),Dr. Dre and 2Pac,"Dr. Dre, Chris Stainton, Roger Troutman, Larry Troutman, 2Pac",Dr. Dre,"Feb. , 1996", No. 6,rap
-La Bamba,The Ritchie Valens Story (Rhino),Ritchie Valens,William Clauson,Bob Keane,"Oct. , 1958", No. 22,classic rock
-Piece of My Heart,Cheap Thrills (Columbia),Big Brother and the Holding Company,"Bert Berns, Jerry Ragovoy",John Simon,"Aug. , 1968", No. 12,classic rock
-Jim Dandy,Soul on Fire: The Best of LaVern Baker (Atlantic),Lavern Baker,Lincoln Chase,"Ahmet Ertegun,Jerry Wexler","Dec. , 1956", No. 17,soul
-Runaround Sue,Runaround Sue (Capitol),Dion,"Dion DiMucci, Ernie Maresca",Gene Schwartz,"Sept. , 1961", No. 1,classic rock
-I Shot the Sheriff,Burnin' (Island),Bob Marley and the Wailers,Marley,Chris Blackwell,"Oct. , 1973",,reggae
-Come Go With Me,Golden Classics (Collectables),The Dell-Vikings,Clarence E. Quick,Joe Averbach,"Feb. , 1957", No. 5,soul
-In Da Club,Get Rich or Die Tryin' (Interscope/Aftermath/Shady),50 Cent,"50 Cent, Dr. Dre, Mike Elizondo","Dr. Dre, Elizondo","Dec. , 2002", No. 1,rap
-Pink Houses,Uh-Huh (Mercury),John Cougar Mellencamp,Mellencamp,"Little Bastard, Don Gehman","Oct. , 1983", No. 8,classic rock
-Push It,"Hot, Cool and Vicious (London)",Salt 'n Pepa,"Hurby ""Luv Bug"" Azor",Azor,"Nov. , 1987", No. 19,rap
-I Wanna Be Your Dog,The Stooges (Elektra),The Stooges,"Dave Alexander, Ron Asheton, Scott Asheton, Iggy Pop",John Cale,"August , 1969",,alternative
-Love Me Tender,Elvis: 30 #1 Hits (RCA),Elvis Presley,"Presley, Vera Watson",Steve Sholes,"Oct. , 1956", No. 1,country
-Beast of Burden,Some Girls (Virgin),The Rolling Stones,"Mick Jagger, Keith Richards",The Glimmer Twins,"June , 1978", No. 8,classic rock
-Alone Again Or,Forever Changes (Rhino),Love,Bryan MacLean,"Arthur Lee, Bruce Botnick","Jan. , 1968", No. 99,soul
-Mustang Sally,The Very Best of Wilson Pickett (Rhino),Wilson Pickett,Sir Mack Rice,Jerry Wexler,"Nov. , 1966", No. 23,soul
-Ramble On,Led Zeppelin II (Atlantic),Led Zeppelin,"Jimmy Page, Robert Plant",Page,"Oct. , 1969",,classic rock
-Midnight Train to Georgia,Essential Collection (Hip-O),Gladys Knight and the Pips,Jim Weatherly,Tony Camillo,"Sept. , 1973", No. 1,soul
-Aint It a Shame,The Fats Domino Jukebox: 20 Greatest Hits (Capitol),Fats Domino,"Dave Bartholomew, Domino",Bartholomew,"July , 1955", No. 10,classic rock
-(White Man) In Hammersmith Palais,The Clash (Epic),The Clash,"Mick Jones, Joe Strummer",The Clash,"July , 1979",,alternative
-Everybody Needs Somebody to Love,The Very Best of Solomon Burke (Rhino),Solomon Burke,"Burke, Bert Berns, Jerry Wexler",Berns,"July , 1964", No. 58,soul
-New Years Day,War (Island),U2,"Bono, the Edge, Adam Clayton, Larry Mullen Jr.",Steve Lillywhite,"April , 1983", No. 53,alternative
-Smoke on the Water,Machine Head (Rhino),Deep Purple,"Ritchie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice",Deep Purple,"May , 1973", No. 4,classic rock
-Tumbling Dice,Exile on Main Street (Virgin),Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"April , 1972", No. 7,classic rock
-American Idiot,American Idiot (Reprise),Green Day,Green Day,"Rob Cavallo, Green Day","Oct. , 2004", No. 61,alternative
-William,Louder Than Bombs (Sire),The Smiths,"Johnny Marr, Morrissey",John Porter,"Aug. , 1984",,alternative
-Blue Suede Shoes,2nd to None (BMG Heritage),Elvis Presley,Carl Perkins,Steve Sholes,"March , 1956", No. 20,country
-Piano Man,Piano Man (Columbia),Billy Joel,Joel,Michael Stewart,"Nov. , 1973", No. 25,classic rock
-Its Your Thing,The Ultimate Isley Brothers (Legacy),The Isley Brothers,"Rudolph Isley, Ronald lsley, O'Kelly Isley","R. Isley, R. Isley, O. Isley","Feb. , 1969", No. 2,soul
-Nuthin But a G Thang,The Chronic (Death Row),Dr. Dre,Snoop Dogg,Dr. Dre,"Jan. , 1993", No. 2,rap
-Stills and Nash,"Crosby, Stills and Nash (Atlantic)",Crosby,Stephen Stills,"David Crosby, Stills, Graham Nash","June , 1969", No. 21,classic rock
-Fuck tha Police,Straight Outta Compton (Priority),N.W.A,"Ice Cube, MC Ren","Dr. Dre, Yella","Jan. , 1989",,rap
-Juicy,Ready to Die (Bad Boy),The Notorious B.I.G.,The Notorious B.I.G.,"Sean ""Puffy"" Combs, Poke","Aug , 1994", No. 27,rap
-The Boys of Summer,Building the Perfect Beast (Geffen),Don Henley,"Henley, Mike Campbell","Henley, Campbell, Danny Kortchmar, Greg Ladanyi","Nov. , 1984", No. 5,classic rock
-Cant Help Myself,The Ultimate Collection (Motown),The Four Tops,"Eddie Holland, Lamont Dozier, Brian Holland","Holland, Dozier, Holland","June , 1965", No. 1,soul
-Young Blood,The Very Best of the Coasters (Rhino),The Coasters,"Jerry Leiber, Mike Stoller, Doc Pomus","Leiber, Stoller","May , 1957", No. 1,soul
-The Girl Cant Help It,The Georgia Peach (Specialty),Little Richard,Bobby Troup,"Robert ""Bumps"" Blackwell","Jan. , 1957", No. 49,classic rock
-Ode to Billie Joe,Greatest Hits (Curb),Bobbie Gentry,Gentry,"Kelly Gordon, Bobby Paris","July , 1967", No. 1,country
-I Feel Love,The Donna Summer Anthology (Casablanca),Donna Summer,"Summer, Giorgio Moroder, Pete Bellotte","Moroder, Bellotte","May , 1977", No. 6,disco
-Monkey Gone to Heaven,Doolittle (4 AD/Elektra),Pixies,Black Francis,Gil Norton,"March , 1989",,alternative
-Sweet Emotion,Toys in the Attic (Sony),Aerosmith,"Steven Tyler, Tom Hamilton",Jack Douglas,"April , 1975", No. 36,classic rock
-In Bloom,Nevermind (Geffen),Nirvana,Kurt Cobain,Butch Vig,"Sept. , 1991",,alternative
-Weve Only Just Begun,Singles 1969-1981 (Interscope),Carpenters,"Paul Williams, Roger Nichols",Jack Daugherty,"Sept. , 1970", No. 2,classic rock
-Visions of Johanna,Blonde on Blonde (Columbia),Bob Dylan,Dylan,Bob Johnston,"May , 1966",,classic rock
-Umbrella,Good Girl Gone Bad (Def Jam),Rihanna Featuring Jay-Z,"The-Dream, Kuk Harrell, Jay-Z, Christopher ""Tricky"" Stewart","Harrell, Stewart","March, 2007", No. 1,rap
-Cmon Everybody,Something' Else (Razor and Tie),Eddie Cochran,"Cochran, Jerry Capehart",Capehart,"Oct. , 1958", No. 35,soul
-Thank You (Falettinme Be Mice Elf Agin),Anthology (Epic),Sly and the Family Stone,Sly Stone,Stone,"Jan. , 1970", No. 1,soul
-Tonights the Night,25 All-Time Greatest Hits (Varèse Fontana),The Shirelles,"Luther Dixon, Shirley Owens",Dixon,"Sept. , 1960", No. 39,soul
-Enter Sandman,Metallica (Elektra),Metallica,"James Hetfield, Lars Ulrich, Kirk Hammett","Bob Rock, Hetfield, Ulrich","July , 1991", No. 16,classic rock
-Sweet Home Alabama,Second Helping (MCA),Lynyrd Skynyrd,"Ed King, Gary Rossington, Ronnie Van Zant",Al Kooper,"April , 1974", No. 8,classic rock
-Thirteen,#1 Record/Radio City (Fantasy),Big Star,"Alex Chilton, Chris Bell",John Fry,"April , 1972",,alternative
-(Dont Fear) the Reaper,Agents of Fortune (Columbia),Blue Öyster Cult,Donald Roeser,"Murray Krugman, Sandy Pearlman, David Lucas","July , 1976", No. 12,classic rock
-Remember (Walkin in the Sand),The Best of the Shangri-Las (Mercury),The Shangri-Las,"George ""Shadow"" Morton",Morton,"Aug. , 1964", No. 5,soul
-Cant Help Falling in Love,Elvis 30 #1 Hits (RCA),Elvis Presley,"George Weiss, Hugo Peretti, Luigi Creatore",Joseph Lilley,"Oct. , 1961", No. 1,country
-O-o-h Child,Soul Hits of the '70s: Didn't It Blow Your Mind! Vol. 2 (Rhino),The Five Stairsteps,Stan Vincent,Vincent,"April , 1970", No. 8,soul
-Summer in the City,The Lovin' Spoonful Greatest Hits (Buddha),The Lovin' Spoonful,"John Sebastian, Steve Boone, Mark Sebastian",Erik Jacobsen,"June , 1966", No. 1,classic rock
-Shop Around,The Ultimate Collection (Motown),Smokey Robinson and the Miracles,"Berry Gordy, Robinson",Gordy,"Dec. , 1960", No. 2,soul
-Buddy Holly,Weezer (Geffen),Weezer,Rivers Cuomo,Ric Ocasek,"Aug. , 1994", No. 18,alternative
-Miss You,Some Girls (Virgin),The Rolling Stones,"Mick Jagger, Keith Richards",The Glimmer Twins,"May , 1978", No. 1,classic rock
-The Rising,The Rising (Columbia),Bruce Springsteen,Springsteen,Brendan O'Brien,"July , 2002", No. 52,classic rock
-Running on Empty,Running on Empty (Elektra),Jackson Browne,Browne,Browne,"Jan. , 1977", No. 11,classic rock
-Brown Sugar,Sticky Fingers (Virgin),The Rolling Stones,"Mick Jagger, Keith Richards",Jimmy Miller,"April , 1971", No. 1,classic rock
-Ignition (Remix),Chocolate Factory (Jive),R. Kelly,Kelly,Kelly,"Oct. , 2002", No. 2,soul
-Time to Pretend,Oracular Spectacular (Columbia),MGMT,"Ben Goldwasser, Andrew VanWyngarden",Dave Fridmann,"Jan , 2008",,alternative
-I Will Survive,I Will Survive: The Anthology (Polygram),Gloria Gaynor,"Dino Fekaris, Freddie Perren","Fekaris, Perren","Dec. , 1978", No. 1,disco
-I Love Rock N Roll,I Love Rock 'N Roll (Blackheart),Joan Jett and the Blackhearts,"Jake Hooker, Alan Merrill","Ritchie Cordell, Kenny Laguna","Jan. , 1982", No. 1,classic rock
-Clocks,A Rush of Blood to the Head (Capitol),Coldplay,Coldplay,"Ken Nelson, Mark Phythian","Aug. , 2002", No. 29,alternative
-Under the Boardwalk,The Very Best of the Drifters (Rhino),The Drifters,"Arthur Resnick, Kenny Young",Bert Berns,"June , 1964", No. 4,soul
-Just Like Heaven,"Kiss Me, Kiss Me, Kiss Me (Elektra)",The Cure,"Robert Smith, Simon Gallup, Porl Thompson, Lol Tolhurst, Boris Williams","David Allen, Smith","May , 1987", No. 40,alternative
-Im Eighteen,Love It to Death (Warner Bros.),Alice Cooper,"Michael Bruce, Glen Buxton, Cooper, Dennis Dunway, Neal Smith","Bob Erzin, Jack Richardson","Feb. , 1971", No. 21,classic rock
-Young Americans,Young Americans (Virgin),David Bowie,Bowie,Tony Visconti,"March , 1975", No. 28,classic rock
-Lady Marmalade,Nightbirds (Epic),LaBelle,"Bob Crewe, Kenny Nolan",Allen Toussaint,"Jan. , 1975", No. 1,soul
-Cry Me a River,Justified (Jive),Justin Timberlake,"Timbaland, Scott Storch, Timberlake",Timbaland,"Nov. , 2002", No. 3,soul
-White Rabbit,Surrealistic Pillow (RCA),Jefferson Airplane,Grace Slick,Rick Jarrard,"Sept. , 1967", No. 8,classic rock
-Since U Been Gone,Breakaway (RCA),Kelly Clarkson,"Dr. Luke, Max Martin","Dr. Luke, Martin","Nov. , 2004", No. 2,soul
-Super Freak,Street Songs (Motown),Rick James,"James, Alonzo Miller",James,"Aug. , 1981", No. 16,soul
-Sabotage,Ill Communication (Capitol),Beastie Boys,Beastie Boys,"Beastie Boys, Mario Caldato Jr.","May , 1994",,rap
-I Want to Know What Love Is,Agent Provocateur (Atlantic),Foreigner,Mick Jones,"Jones, Alex Sadkin","Nov. , 1984", No. 1,classic rock
-Last Nite,Is This It (RCA),The Strokes,Julian Casablancas,Gordon Raphael,"Aug. , 2001",,alternative
-How Soon Is Now?,Meat Is Murder (Warner Bros.),The Smiths,"Johnny Marr, Morrissey",John Porter,"Feb. , 1985",,alternative
-Do Right Woman — Do Right Man,I Never Loved a Man the Way I Love You (Rhino),Aretha Franklin,"Chips Moman, Dan Penn",Jerry Wexler,"March , 1967", No. 9,soul
-Where Did Our Love Go,The Ultimate Collection (Motown),The Supremes,"Brian Holland, Lamont Dozier, Eddie Holland","Brian Holland, Dozier","June , 1964", No. 1,soul
-Into the Mystic,Moondance (Warner Bros.),Van Morrison,Morrison,Morrison,"March , 1970",,classic rock
-Welcome to the Jungle,Appetite for Destruction (Geffen),Guns N' Roses,Guns n' Roses,Mike Clink,"Aug. , 1987", No. 7,classic rock
-Runaway,Greatest Hits (Rhino),Del Shannon,"Shannon, Max Crook","Harry Balk, Irving Micahnik","March , 1961", No. 1,soul
-Surrender,Heaven Tonight (Epic),Cheap Trick,Rick Nielsen,Tom Werman,"May , 1978", No. 62,alternative
-Standing in the Shadows of Love,The Ultimate Collection (Motown),The Four Tops,"Brian Holland, Lamont Dozier, Eddie Holland","Brian Holland, Dozier","Dec. , 1966", No. 6,soul
-Rain,Past Masters (Capitol/Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"June , 1966", No. 23,classic rock
-Respect Yourself,Bealtitude: Respect Yourself (Stax),The Staple Singers,"Luther Ingram, Mack Rice",Al Bell,"Oct. , 1971", No. 12,soul
-Big Pimpin,Vol. 3: Life and Times of S. Carter (Roc-A-Fella),Jay-Z Featuring UGK,"Jay-Z, Bun B, Pimp C, Timbaland, Kyambo Joshua",Timbaland,"Dec. , 1999", No. 18,rap
-Get Ur Freak On,Miss E … So Addictive (Atlantic/ATG),Missy Elliott,"Elliott, Timbaland",Timbaland,"March , 2001", No. 7,rap
-Rollin Stone,The Anthology: 1947-1972 (Chess/MCA),Muddy Waters,McKinley Morganfield,Leonard and Phil Chess,"Feb , 1948",,blues
-Kiss,Parade (Warner Bros.),Prince and the Revolution,Prince and the Revolution,Prince and the Revolution,"Feb. , 1986", No. 1,soul
-Soul Man,Soul Men (Rhino),Sam and Dave,"Isaac Hayes, David Porter","Hayes, Porter","Sept. , 1967", No. 2,soul
-All Apologies,In Utero (Geffen),Nirvana,Kurt Cobain,Steve Albini,"Sept. , 1993", No. 45,alternative
-Sheena Is a Punk Rocker,Rocket to Russia (Rhino),Ramones,Ramones,"Tony Bongiovi, T. Erdelyi","May , 1977", No. 81,alternative
-My Sweet Lord,All Things Must Pass (Capitol),George Harrison,Harrison,"Harrison, Phil Spector","Nov. , 1970", No. 1,classic rock
-Paradise City,Appetite for Destruction (Geffen),Guns N' Roses,Guns n' Roses,Mike Clink,"Aug. , 1987", No. 5,classic rock
-Cupid,Greatest Hits (RCA),Sam Cooke,Cooke,"Cooke, Hugo and Luigi","July , 1961", No. 12,soul
-The Twist,Greatest Hits (Prime Cuts),Chubby Checker,Hank Ballard,Karl Mann,"Aug. , 1960", No. 1,classic rock
-Penny Lane,Magical Mystery Tour (Capitol/Apple),The Beatles,"John Lennon, Paul McCartney",George Martin,"Feb. , 1967", No. 1,classic rock
-Heroin,The Velvet Underground and Nico (Polydor),The Velvet Underground,Lou Reed,"Andy Warhol, Tom Wilson","March , 1967",,classic rock
-Leader of the Pack,Myrmidons of Melodrama: Definitive Collection (RPM),The Shangri-Las,"George ""Shadow"" Morton, Jeff Barry, Ellie Greenwich","Morton, Barry, Greenwich","Oct. , 1964", No. 1,soul
-Pressure Drop,The Harder They Come (Hip-O),Toots and the Maytals,Toots Hibbert,Leslie Kong,"Feb. , 1973",,reggae
-Come As You Are,Nevermind (Geffen),Nirvana,"Kurt Cobain, Nirvana","Butch Vig, Nirvana","Sept. , 1991", No. 32,alternative
-I Got You Babe,The Beat Goes On: The Best of Sonny and Cher (Atlantic),Sonny and Cher,Sonny Bono,Bono,"July , 1965", No. 1,classic rock
+genre,artist,songs,Mil. Streams,Year
+2-Step,Naughty Boy,La La La,636,2013
+2-Step,PinkPantheress,Pain,644,2021
+2-Step,Jung Kook,Seven,1577,2023
+Afropiano,Doja Cat,Woman,1603,2021
+Afropiano,Tyla,Water,692,2023
+Balearic Beat,Burak Yeter,Tuesday,600,2016
+Baltimore Club,PinkPantheress,Boys A Liar Pt. 2,867,2023
+Big Room House,Martin Garrix,Animals,635,2013
+Big Room House,Calvin Harris,I Need Your Love,504,2013
+Big Room House,David Guetta,Bad,611,2014
+Big Room House,Timmy Trumpet,Freaks,537,2014
+Big Room House,BLACKPINK,BOOMBAYAH,543,2016
+Big Room Trance,Armin van Buuren,Blah Blah Blah,509,2018
+Big Room Trance,Gabry Ponte,Thunder,536,2021
+Brazilian Bass,Alok,Hear Me Now,760,2016
+Brazilian Bass,Selena Gomez,Kill Em With Kindness,553,2016
+Brazilian Phonk,S3BZ,MONTAGEM - PR FUNK,410,2023
+Breakstep,Naughty Boy,La La La,636,2013
+Bubblegum Dance,Aqua,Barbie Girl,518,1997
+Bubblegum Dance,Vengaboys,"Boom, Boom, Boom, Boom!!",420,
+Chillstep,Hippie Sabotage,Habits (Stay High),612,2014
+Complextro,Skrillex,Bangarang,479,2011
+Deep House,Drake,Take Care,635,2013
+Deep House,Krono,Dancin,1193,2014
+Deep House,Robin Schulz,Waves,988,2014
+Deep House,Robin Schulz,Sugar,1203,2015
+Deep House,Deepend,Catch & Release,487,2015
+Deep House,Drake,Passionfruit,1642,2017
+Deep House,Shouse,Love Tonight,547,2017
+Deep House,Regard,Ride It,1331,2019
+Deep House,PNAU,Cold Heart,1974,2021
+Deep House,Route 94,My Love,412,
+Deep House,Tinlicker,Because You Move Me,404,
+Deep Tech,Disclosure,Latch,1001,2012
+Diva House,Clean Bandit,Rather Be,1309,2014
+Diva House,Silk City,Electricity,614,2018
+Diva House,Lady Gaga,Rain On Me,1051,2020
+Diva House,Galantis,Heartbreak Anthem,479,2021
+Diva House,Becky Hill,Remember,445,2021
+Diva House,Ariana Grande,yes and?,400,2024
+Diva House,Beyoncé,BREAK MY SOUL,432,
+Diva House,Gala,Freed From Desire,411,
+Drum & Bass,Linkin Park,Breaking The Habit,414,2004
+Dubstep,Two Feet,Go Fuck Yourself,644,2016
+Electro House,David Guetta,Sexy Bitch,921,2009
+Electro House,David Guetta,When Love Takes Over,490,2009
+Electro House,Rihanna,Only Girl (In The World),1133,2010
+Electro House,USHER,DJ Got Us Fallin' In Love,877,2010
+Electro House,David Guetta,Memories,967,2010
+Electro House,Stromae,Alors On Danse,698,2010
+Electro House,Flo Rida,Club Can't Handle Me,582,2010
+Electro House,Rihanna,We Found Love,1720,2011
+Electro House,David Guetta,Titanium,1674,2011
+Electro House,Rihanna,S&M,1075,2011
+Electro House,Jennifer Lopez,On The Floor,1064,2011
+Electro House,Calvin Harris,Feel So Close,1055,2011
+Electro House,LMFAO,Party Rock Anthem,735,2011
+Electro House,Rihanna,Where Have You Been,716,2011
+Electro House,Lady Gaga,Born This Way,625,2011
+Electro House,David Guetta,Where Them Girls At,605,2011
+Electro House,LMFAO,Sexy And I Know It,444,2011
+Electro House,Ke$ha,Die Young,727,2012
+Electro House,will.i.am,Scream & Shout,784,2012
+Electro House,Zedd,Beauty And A Beat,868,2012
+Electro House,Steve Aoki,Pursuit Of Happiness,619,2012
+Electro House,David Guetta,Play Hard,567,2012
+Electro House,Calvin Harris,Sweet Nothing,526,2012
+Electro House,Pitbull,Feel This Moment,714,2013
+Electro House,Zedd,Clarity,579,2013
+Electro House,Calvin Harris,Under Control,567,2013
+Electro House,Calvin Harris,I Need Your Love,504,2013
+Electro House,Calvin Harris,Summer,1556,2014
+Electro House,Calvin Harris,Outside,1180,2014
+Electro House,Calvin Harris,Blame,957,2014
+Electro House,Ariana Grande,Break Free,914,2014
+Electro House,Alan Walker,Faded,2026,2015
+Electro House,Deorro,Five More Hours,818,2015
+Electro House,Alan Walker,All Falls Down,541,2017
+Electro House,Alan Walker,The Spectre,436,2017
+Electro House,Tiësto,Jackie Chan,861,2018
+Electro House,Alan Walker,Darkside,605,2018
+Electro House,David Guetta,I'm Good (Blue),1753,2022
+Electro House,David Guetta,Baby Don't Hurt Me,558,2023
+Electro Latino,Don Omar,Danza Kuduro,1699,2010
+Electro Latino,Daddy Yankee,Limbo,513,2013
+Electro Latino,Shakira,Chantaje,1028,2016
+Electro-Disco,Dua Lipa,Houdini,454,2023
+Electroclash,Justin Timberlake,SexyBack,893,2006
+Electropop [EDM],Alan Walker,Alone,729,2016
+Euro House,Rihanna,Don't Stop The Music,1003,2007
+Euro House,Stromae,Alors On Danse,666,2010
+Euro House,Riton,Friday,969,2021
+Euro House,Ava Max,My Head & My Heart,526,2021
+Euro House,David Guetta,Baby Don't Hurt Me,558,2023
+Euro House,Peggy Gou,(It Goes Like) Nanana,435,2023
+Euro House,Ava Max,My Head & My Heart,479,
+Euro House,Kylie Minogue,Can't Get You Out Of My Head,476,
+Euro House,Stromae,Papaoutai,454,
+Euro House,Beyoncé,BREAK MY SOUL,432,
+Euro House,Katy Perry,Swish Swish,409,
+Euro-Trance,Alice Deejay,Better Off Alone,456,1998
+Euro-Trance,Gigi D'Agostino,L'Amour Toujours,445,
+Eurodance,Haddaway,What Is Love,758,1992
+Eurodance,Cher,Believe,605,1998
+Eurodance,Alice Deejay,Better Off Alone,456,1998
+Eurodance,Oliver Tree,Miss You,730,2022
+Festival Progressive House,David Guetta,Titanium,1614,2011
+Festival Progressive House,Rihanna,We Found Love,1587,2011
+Festival Progressive House,Avicii,Levels,1148,2011
+Festival Progressive House,Swedish House Mafia,Don't You Worry Child,1155,2012
+Festival Progressive House,Avicii,Wake Me Up,2266,2013
+Festival Progressive House,Avicii,Hey Brother,1000,2013
+Festival Progressive House,Cedric Gervais,Summertime Sadness,673,2013
+Festival Progressive House,Zedd,Clarity,579,2013
+Festival Progressive House,Calvin Harris,Under Control,537,2013
+Festival Progressive House,Calvin Harris,Summer,1439,2014
+Festival Progressive House,Galantis,Runaway (U&I),882,2014
+Festival Progressive House,Alesso,Heroes (We Could Be),690,2014
+Festival Progressive House,Avicii,The Nights,1730,2015
+Festival Progressive House,Avicii,Waiting For Love,1369,2016
+Festival Progressive House,Axwell /\ Ingrosso ,More Than You Know,1330,2017
+Festival Progressive House,Avicii,Without You,1054,2017
+Festival Progressive House,Galantis,Heartbreak Anthem,478,2021
+Festival Progressive House,Coldplay,A Sky Full Of Stars,1480,
+Festival Progressive House,Calvin Harris,Sweet Nothing,465,
+Festival Progressive House,David Guetta,When Love Takes Over,422,
+Festival Progressive House,David Guetta,Without You,420,
+Festival Progressive House,Avicii,I Could Be The One,419,
+Festival Progressive House,Alan Walker,The Spectre,414,
+Festival Progressive House,Martin Garrix,High On Life,411,
+Festival Progressive House,David Guetta,Lovers On The Sun,410,
+Festival Trap,BLACKPINK,Kill This Love,812,2019
+Festival Trap,Flo Rida,Goin' Down For Real,689,
+Festival Trap,Zara Larsson,Ain't My Fault,457,
+Fidget House,LMFAO,Party Rock Anthem,705,2011
+Fidget House,Steve Aoki,Pursuit Of Happiness,606,2013
+French House,Daft Punk,One More Time,703,2000
+French House,Eric Prydz,Call On Me,441,2004
+French House,Daft Punk,Around The World,438,
+French House,Modjo,Lady (Hear Me Tonight),407,
+Funky House,Daft Punk,One More Time,703,2000
+Funky House,Robin Schulz,Sugar,1203,2015
+Funky House,Kungs,This Girl,1105,2016
+Funky House,Calvin Harris,Giant,666,2019
+Funky House,Majestic,Rasputin,600,2021
+Future Bass,Flume,You & Me,644,2013
+Future Bass,DJ Snake,You Know You Like It,505,2014
+Future Bass,Jack Ü,Where Are Ü Now,1099,2015
+Future Bass,The Chainsmokers,Roses,1045,2015
+Future Bass,Ellie Goulding,On My Mind,501,2015
+Future Bass,The Chainsmokers,Closer,2873,2016
+Future Bass,Martin Garrix,In The Name Of Love,1449,2016
+Future Bass,Hailee Steinfeld,Starving,1189,2016
+Future Bass,Flume,Never Be Like You,823,2016
+Future Bass,The Vamps,All Night,664,2016
+Future Bass,The Chainsmokers,All We Know,602,2016
+Future Bass,Mura Masa,Love$ick,496,2016
+Future Bass,The Chainsmokers,Something Just Like This,2588,2017
+Future Bass,Marshmello,Silence,1588,2017
+Future Bass,Selena Gomez,Wolves,1356,2017
+Future Bass,Martin Garrix,Scared To Be Lonely,1252,2017
+Future Bass,Zedd,Stay,1222,2017
+Future Bass,David Guetta,2U,819,2017
+Future Bass,Martin Garrix,There For You,605,2017
+Future Bass,BTS,DNA,640,2017
+Future Bass,Marshmello,Happier,2139,2018
+Future Bass,Zedd,The Middle,1501,2018
+Future Bass,Zedd,Lost In Japan,784,2018
+Future Bass,Kina,Can We Kiss Forever?,633,2018
+Future Bass,BTS,Euphoria,591,2018
+Future Bass,The Chainsmokers,This Feeling,621,2018
+Future Bass,Zedd,Happy Now,513,2018
+Future Bass,K-391,Lily,403,2018
+Future Bass,Marshmello,Here With Me,675,2019
+Future Bass,The Chainsmokers,Takeaway,630,2019
+Future Bass,The Chainsmokers,Call You Mine,611,2019
+Future Bass,Marshmello,One Thing Right,544,2019
+Future Bass,The Chainsmokers,Who Do You Love,543,2019
+Future Bounce,Tiësto,Jackie Chan,861,2018
+Future Bounce,David Guetta,Like I Do,465,
+Future House,Calvin Harris,How Deep Is Your Love,1112,2015
+Future House,Calvin Harris,This Is What You Came For,1694,2016
+Future House,MEDUZA,Piece Of Your Heart,991,2019
+Future House,MEDUZA,Lose Control,928,2019
+Future House,Calvin Harris,Giant,666,2019
+Future House,Joel Corry,Head & Heart,1175,2020
+Future House,Doja Cat,Boss Bitch,885,2020
+Future House,MEDUZA,Paradise,722,2020
+Future House,Felix Jaehn,Some Say,403,2020
+Future House,MEDUZA,Bad Memories,451,2022
+Future House,Martin Solveig,Intoxicated,420,
+Future House,Katy Perry,Swish Swish,415,
+Future Rave,MEDUZA,Bad Memories,451,2022
+Garage House,Calvin Harris,One Kiss,2125,2018
+Garage House,Calvin Harris,Promises,1029,2018
+Garage House,Silk City,Electricity,614,2018
+Garage House,Becky Hill,Remember,445,2021
+Garage House,Joel Corry,BED,472,
+Garage House,Tiësto,Ritual,416,
+Glitch Hop,Alan Walker,All Falls Down,541,2017
+Glitch Hop,Alan Walker,Darkside,590,2018
+Glitch Hop,The Living Tombstone,My Ordinary Life,485,
+Guaracha,Dayvi,Baila Conmigo,416,2018
+Guaracha,Farruko,Pepas,1473,2021
+Guaracha,J Balvin,In Da Getto,455,
+Hands Up,Cascada,Everytime We Touch,642,2006
+Hi-NRG,Dead or Alive,You Spin Me Right Round (Like A Record),406,1983
+Hip House,Far East Movement,Like A G6,682,2010
+Hip House,Stromae,Alors On Danse,666,2010
+Hip House,Pitbull,Give Me Everything,1145,2011
+Hip House,Flo Rida,Wild Ones,869,2011
+Hip House,Flo Rida,Good Feeling,650,2011
+Hip House,David Guetta,Where Them Girls At,579,2011
+Hip House,will.i.am,Scream & Shout,757,2012
+Hip House,PSY,Gangnam Style,485,2012
+Hip House,Pitbull,Feel This Moment,672,2013
+Hip House,Pitbull,Time Of Our Lives,1302,2014
+Hip House,Pitbull,Fireball,563,2014
+Hip House,Doja Cat,Boss Bitch,885,2020
+Hip House,J Balvin,In Da Getto,479,2021
+Hip House,bbno$,edamame,451,2021
+Hip House,Bizarrap,Quédate,1671,2022
+Hip House,Arcángel,La Jumpa,737,2022
+House,The Magician,I Follow Rivers,566,2011
+House,Clean Bandit,Rather Be,1309,2014
+House,Ariana Grande,Motive,502,2020
+Hybrid Trap,grandson,Blood // Water,650,2018
+Hybrid Trap,Skrillex,Purple Lamborghini,400,
+Hypertechno,cassö,Prada,693,2024
+Italo Dance,Eiffel 65,I'm Blue (Da Ba Dee),673,1998
+Italo Dance,Gigi D'Agostino,L'Amour Toujours,445,
+Italo House,Gala,Freed From Desire,411,
+Italo House*,The Magician,I Follow Rivers,566,2011
+Jersey Club,Lil Uzi Vert,Just Wanna Rock,664,2022
+Jersey Club,Bad Bunny,WHERE SHE GOES,748,2023
+Jersey Club,Nicki Minaj,Barbie World,440,
+Latin House,Pitbull,Fireball,563,2014
+Latin House,Bad Bunny,Neverita,858,2022
+Liquid Drum & Bass,Kenya Grace,Strangers,717,2023
+Melbourne Bounce,AronChupa,I'm An Albatraoz,576,2014
+Melbourne Bounce,Timmy Trumpet,Freaks,537,2014
+Melodic House,Tinlicker,Because You Move Me,404,
+Midtempo Bass,Alan Walker,Alone,729,2016
+Moombahcore,Skrillex,Bangarang,454,
+Moombahto,Beyoncé,Run The World (Girls),576,2011
+Moombahton,Major Lazer,Lean On,2052,2015
+Moombahton,Major Lazer,Light It Up - Remix,1268,2015
+Moombahton,BTS,Blood Sweat & Tears,572,2016
+Moombahton,BLACKPINK,BOOMBAYAH,542,2016
+Moombahton,J Balvin,Mi Gente,1465,2017
+Moombahton,DJ Snake,Taki Taki,1560,2018
+Moombahton,Alan Walker,On My Way,659,2019
+Moombahton,David Guetta,This One's For You,484,
+Moombahton,David Guetta,Bang My Head,429,
+Nu-Disco,Duke Dumont,Ocean Drive,614,2015
+Nu-Disco,Calvin Harris,Feels,1111,2017
+Nu-Disco,Calvin Harris,Slide,1032,2017
+Nu-Disco,Calvin Harris,Promises,1029,2018
+Nu-Disco,Martin Garrix,Summer Days,645,2019
+Nu-Disco,PNAU,Cold Heart,1974,2021
+Nu-Disco,Doja Cat,Kiss Me More,1798,2021
+Nu-Disco,Coldplay,My Universe,1247,2021
+Nu-Disco,Dua Lipa,Love Again,680,2021
+Nu-Disco,Beyoncé,CUFF IT,808,2022
+Nu-Disco,Elton John,Hold Me Closer,412,2022
+Nu-Disco,FIFTY FIFTY,Cupid,1017,2023
+Nu-Disco,Dua Lipa,Dance The Night Away,911,2023
+Nu-Disco,Sabrina Carpenter,Espresso,977,2024
+Nu-Disco,Dua Lipa,Don't Start Now,2458,
+Nu-Disco,Dua Lipa,Levitating,1953,
+Nu-Disco,The Weeknd,I Feel It Coming,1640,
+Nu-Disco,Dua Lipa,Break My Heart,1136,
+Nu-Disco,Dua Lipa,Levitating,879,
+Nu-Disco,Calvin Harris,The Weekend,433,
+Nu-Disco,Sophie Ellis-Bextor,Murder On The Dancefloor,404,
+Philly Club,Lil Uzi Vert,Just Wanna Rock,664,2022
+Phonk House,Kordhell,Murder In My Mind,766,
+Phonk House,DVRST,Close Eyes,633,
+Progressive House,Tinlicker,Because You Move Me,404,
+Progressive Trance,cassö,Prada,693,2023
+Psytrance,Armin van Buuren,Blah Blah Blah,509,2018
+Psytrance,Gabry Ponte,Thunder,536,2022
+Romanian Popcorn,Edward Maya,Stereo Love,632,2009
+Romanian Popcorn,The Wanted,Glad You Came,802,2011
+Romanian Popcorn,Alexandra Stan,Mr. Saxobeat,558,2011
+Slap House,Loud Luxury,Body,1209,2017
+Slap House,Dynoro,In My Mind,1460,2018
+Slap House,Imanbek,Roses,1949,2019
+Slap House,Topic,Breaking Me,1138,2019
+Slap House,R3HAB,All Around The World (La La La),668,2019
+Slap House,Riton,Turn Me On,403,2019
+Slap House,HVME,Goosebumps,499,2020
+Slap House,Ofenbach,Head Shoulders Knees & Toes,443,2020
+Slap House,Tiësto,The Motto,838,2021
+Slap House,HVME,Goosebumps - Remix,778,2021
+Slap House,ATB,Your Love (9PM),734,2021
+Slap House,Tiësto,Don't Be Shy,699,2021
+Slap House,Joel Corry,OUT OUT,519,2021
+Slap House,220 KID,Wellerman,449,2021
+Slap House,Jason Derulo,Acapulco,450,2021
+Slap House,Imanbek,Belly Dancer,567,2022
+Slap House,Tiësto,10:35,567,2022
+Slap House,Jax Jones,Where Did You Go?,401,2022
+Slap House,Tiësto,Lay Low,435,2023
+Slap House,Tiësto,The Business,1212,
+Tech House,Jax Jones,You Don't Know Me,619,2016
+Tech House,Shouse,Love Tonight,547,2017
+Tech House,FISHER,Losing It,588,2018
+Tech House,MEDUZA,Lose Control,926,2019
+Tech House,ACRAZE,Do It To It,793,2021
+Tech House,James Hype,Ferrari,612,2022
+Tech House,Mat Sassari,Give It To Me - Vocal Mix,400,
+Trance,Daurde,Sandstorm,448,1999
+Trap,Katy Perry,Dark Horse,1417,2013
+Trap,Iggy Azalea,Black Widow,595,2014
+Trap,DJ Snake,You Know You Like It,505,2014
+Trap,Jack Ü,Where Are Ü Now,1089,2015
+Trap,Hippie Sabotage,Habits (Stay High),612,2015
+Trap,The Chainsmokers,Don't Let Me Down,1870,2016
+Trap,Hippie Sabotage,Devil Eyes,760,2016
+Trap,Axwell /\ Ingrosso ,More Than You Know,1330,2017
+Trap,Tom Walker,Leave A Light On,627,2017
+Trap,Marshmello,Silence,1554,2018
+Trap,grandson,Blood // Water,650,2018
+Trap,Little Mix,Woman Like Me,516,2018
+Trap,Sub Urban,Cradles,728,2019
+Trap,BLACKPINK,How You Like That,1023,2020
+Trap,LISA,MONEY,1176,2021
+Trap,BLACKPINK,Pretty Savage,445,2021
+Trap,Sam Smith,Unholy,1524,2022
+Trap,Juice WRLD,Come & Go,898,
+Trap,BLACKPINK,DDU-DU-DDU-DU,667,
+Trap,Marshmello,Alone,536,
+Trap,Zara Larsson,Ain't My Fault,457,
+Tropical House,Felix Jaehn,Cheerleader,1636,2014
+Tropical House,Robin Schulz,Prayer In C,1055,2014
+Tropical House,Lost Frequencies,Are You With Me,1034,2014
+Tropical House,Robin Schulz,Waves,988,2014
+Tropical House,Robin Schulz,Sugar,1203,2015
+Tropical House,Jonas Blue ,Fast Car,1132,2015
+Tropical House,Kygo,Firestone,1091,2015
+Tropical House,DJ Snake,Middle,1060,2015
+Tropical House,Petit Biscuit,Sunset Lover,815,2015
+Tropical House,Lost Frequencies,Reality,676,2015
+Tropical House,Deepend,Catch & Release,487,2015
+Tropical House,Broiler,Shots,446,2015
+Tropical House,DJ Snake,Let Me Love You,2118,2016
+Tropical House,Seeb,I Took A Pill In Ibiza,1915,2016
+Tropical House,Clean Bandit,Rockabye,1509,2016
+Tropical House,Kungs,This Girl,1105,2016
+Tropical House,Jonas Blue ,Perfect Strangers,1038,2016
+Tropical House,Maroon 5,Don't Wanna Know,955,2016
+Tropical House,Kygo,Stole The Show,957,2016
+Tropical House,Ryan Riback,Call On Me,895,2016
+Tropical House,Galantis,No Money,865,2016
+Tropical House,Mike Perry,The Ocean,800,2016
+Tropical House,Martin Jensen,Solo Dance,768,2016
+Tropical House,Cheat Codes,Sex,675,2016
+Tropical House,Seeb,Hymn For The Weekend,648,2016
+Tropical House,Burak Yeter,Tuesday,600,2016
+Tropical House,Steve Aoki,Just Hold On,515,2016
+Tropical House,Drake,Passionfruit,1642,2017
+Tropical House,Clean Bandit,Symphony,1496,2017
+Tropical House,Kygo,It Ain't Me,1412,2017
+Tropical House,Dennis Lloyd,Nevermind,984,2017
+Tropical House,Jonas Blue,Mama,949,2017
+Tropical House,Cheat Codes,Pretty Girl,897,2017
+Tropical House,Cheat Codes,No Promises,676,2017
+Tropical House,Hailee Steinfeld,Most Girls,618,2017
+Tropical House,Kygo,Stargazing,536,2017
+Tropical House,Hailee Steinfeld,Let Me Go,1099,2018
+Tropical House,Jonas Blue,Rise,868,2018
+Tropical House,Kygo,Higher Love,933,2019
+Tropical House,Surf Mesa,ily (i love you baby) ,905,2019
+Tropical House,Sam Feldt,Post Malone,580,2019
+Tropical House,Lost Frequencies,Where Are You Now,1170,2021
+Tropical House,Justin Bieber,Sorry,1978,
+Tropical House,Justin Bieber,What Do You Mean?,1514,
+Tropical House,Calvin Harris,My Way,936,
+Tropical House,Avicii,SOS,730,
+Tropical House,Felix Jaehn,Ain't Nobody (Loves Me Better),709,
+Tropical House,Avicii,Lonely Together,699,
+Tropical House,Clean Bandit,I Miss You,694,
+Tropical House,Kygo,Stay,592,
+Tropical House,Kygo,Remind Me To Forget,576,
+Tropical House,Kygo,Born To Be Yours,547,
+Tropical House,Kygo,Happy Now,490,
+Tropical House,Jubël,Dancing In The Moonlight,441,
+Tropical House,Cheat Codes,Let Me Hold You (Turn Me On),439,
+Tropical House,David Guetta,Bang My Head,429,
+Tropical House,Robin Schulz,Shed A Light,420,
+Tropical House,Jonas Blue,Polaroid,417,
+Tropical House,Klingande,Jubel,409,
+Tropical House,Robin Schulz,OK,401,
+Twerk,DJ Snake,Turn Down For What,543,2013
+Twerk,David Guetta,Hey Mama,824,2015
+Twerk,JENNIE,SOLO,612,2018
+UK Bass,Disclosure,Latch,1001,2012
+UK Bass,Zara Larsson,Never Forget You,968,2015
+Vocal Trance,cassö,Prada,693,2023
+Wonky,Flume,You & Me,634,2013
+Wonky,Two Feet,Go Fuck Yourself,644,2017

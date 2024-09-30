@@ -21,3 +21,17 @@ class TreeNode:
       current_node = nodes_to_visit.pop()
       print(current_node.value)
       nodes_to_visit += current_node.children
+
+  def is_in(self, value):
+    #defines a method to determine if a node child is already assigned to a specific value
+    for node in self.children:
+      if node.value == value:
+        return True  
+    return False
+
+  def get_child_node(self, value):
+    #function to retrive a child node with a specific value from a parent node
+    for node in self.children:
+      if node.value == value:
+        return node
+    return None

@@ -92,6 +92,8 @@ def genre_choice():
       user_input = str(input(f"\nDo you want to see {matchlist[0]} song recommendations? (y/n) ")).lower()
       if user_input == 'y':
         selected_genre = music.get_child_node(matchlist[0])
+      else:
+        print("\nSorry this wasn't what you were looking for.  Type in a new search to keep looking.")
     else:
       print("\nEnter more of the genre name to narrow down the search options, or start a new search for something else.\n")
 
